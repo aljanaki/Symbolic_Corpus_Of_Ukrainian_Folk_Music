@@ -1,7 +1,9 @@
 Symbolic Corpus of Ukrainian Folk Songs
 ===================================
 
-This website contains a corpus of 664 symbolically encoded Ukrainian folk songs in musicXML format with lyrics. The songs originate from the West-Central and South-Western parts of Ukraine: Podillia. Most of the corpus consists of ballads and was collected by ethnomusicologists between 1827 and 2018. 
+This website contains a corpus of 664 symbolically encoded Ukrainian folk songs in musicXML format with lyrics. The songs originate from the West-Central and South-Western parts of Ukraine: Podillia. Most of the corpus consists of ballads and was collected by ethnomusicologists between 1827 and 2018.
+
+Download the full corpus from `here <https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/blob/main/full%20corpus.zip>`_ (3.15 Mb)
 
 To reference the corpus, cite: 
 
