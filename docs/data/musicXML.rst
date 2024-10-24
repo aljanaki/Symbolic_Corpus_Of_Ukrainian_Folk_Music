@@ -1,0 +1,1 @@
+In order to download the corpus, go to https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/tree/main/musicXML
