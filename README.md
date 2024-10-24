@@ -1,1 +1,10 @@
-# Symbolic_Corpus_Of_Ukrainian_Folk_Music
+# Symbolic Corpus Of Ukrainian Folk Music
+
+The corpus is orgnanized by the type of data and contains three types of data: 
+
+Corpus contents: 
+- Symbolic music (musicXML format)
+- Lyrics (txt format)
+- Metadata (.csv)
+
+For every subpart of the corpus, there is a corresponding folder with data files in the content directory. 
