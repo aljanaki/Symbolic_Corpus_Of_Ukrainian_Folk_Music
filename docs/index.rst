@@ -21,5 +21,5 @@ Contents
 .. toctree::
 
    metadata
-   musicXML
+   musicxml
    lyrics
