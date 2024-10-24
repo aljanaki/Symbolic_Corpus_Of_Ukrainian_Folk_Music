@@ -1,1 +1,1 @@
-In order to download the corpus, go to https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/tree/main/musicXML
+The music was originally typeset in Finale. This format does not allow for convenient digimusicological analysis. We release the scores in musicXML format.

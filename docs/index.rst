@@ -5,11 +5,11 @@ This website contains a corpus of 664 symbolically encoded Ukrainian folk songs 
 
 To reference the corpus, cite: 
 
-Inna Lisniaka, Anna Aljanaki, and Liudmyla Efremova. (2024) A corpus of Ukrainian folk songs from Podillia. 
+*Inna Lisniaka, Anna Aljanaki, and Liudmyla Efremova. (2024) A corpus of Ukrainian folk songs from Podillia.*
 
-Check out the :doc:`metadata` section for information on how the metadata is organized. 
-Section :doc:`musicXML` contains the symbolic music files in musicXML format. 
-Section :doc:`lyrics` contains song texts in .txt format (Unicode-encoded). 
+* Check out the :doc:`metadata` section for information on how the metadata is organized.
+* Section :doc:`musicXML` contains information on symbolic music
+* Section :doc:`lyrics` contains song texts in .txt format (Unicode-encoded).
 
 
 
