@@ -2,6 +2,7 @@ Metadata
 =====
 
 **Metadata** contains the following information:
+
 * Year of recording
 * Place of recording
 * Performer

@@ -10,7 +10,7 @@ To reference the corpus, cite:
 *Inna Lisniaka, Anna Aljanaki, and Liudmyla Efremova. (2024) A corpus of Ukrainian folk songs from Podillia.*
 
 * Check out the :doc:`metadata` section for information on how the metadata is organized.
-* Section :doc:`musicXML` contains information on symbolic music
+* Section :doc:`musicxml` contains information on symbolic music
 * Section :doc:`lyrics` contains song texts in .txt format (Unicode-encoded).
 
 
