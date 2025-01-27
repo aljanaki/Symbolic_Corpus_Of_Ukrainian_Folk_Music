@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-15</encoding-date>
+      <encoding-date>2025-01-27</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -169,6 +169,11 @@
       <direction placement="above">
         <direction-type>
           <words default-y="11" relative-x="-127">quarter note equals</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words default-x="131" default-y="-5" valign="top">1</words>
         </direction-type>
       </direction>
       <note default-x="142">
@@ -582,7 +587,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="344">
+    <measure number="4" width="330">
       <print new-system="yes">
         <system-layout>
           <system-distance>77</system-distance>
@@ -613,7 +618,7 @@
           <text>пли</text>
         </lyric>
       </note>
-      <note default-x="203">
+      <note default-x="197">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -627,7 +632,7 @@
           <text>вла,</text>
         </lyric>
       </note>
-      <note default-x="247">
+      <note default-x="240">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -642,7 +647,7 @@
           <text>пли</text>
         </lyric>
       </note>
-      <note default-x="278">
+      <note default-x="269">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -654,7 +659,7 @@
         <dot/>
         <stem default-y="5">up</stem>
         <notations>
-          <slur bezier-x="11" bezier-y="5" default-x="18" default-y="-5" number="1" orientation="over" type="start"/>
+          <slur bezier-x="10" bezier-y="4" default-x="18" default-y="-5" number="1" orientation="over" type="start"/>
           <glissando line-type="wavy" number="1" type="start"/>
         </notations>
         <lyric default-y="-91" number="1" relative-x="13">
@@ -662,7 +667,7 @@
           <text>вла</text>
         </lyric>
       </note>
-      <note default-x="315">
+      <note default-x="301">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -672,7 +677,7 @@
         <type>eighth</type>
         <stem default-y="-5">up</stem>
         <notations>
-          <slur bezier-x="-5" bezier-y="11" default-x="7" default-y="-15" number="1" type="stop"/>
+          <slur bezier-x="-3" bezier-y="10" default-x="7" default-y="-15" number="1" type="stop"/>
           <glissando line-type="wavy" number="1" type="stop"/>
         </notations>
       </note>
@@ -690,7 +695,7 @@
         <type>eighth</type>
         <stem default-y="-80">down</stem>
       </note>
-      <note default-x="203">
+      <note default-x="197">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -701,7 +706,7 @@
         <type>eighth</type>
         <stem default-y="-85">down</stem>
       </note>
-      <note default-x="247">
+      <note default-x="240">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -711,7 +716,7 @@
         <type>quarter</type>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="278">
+      <note default-x="269">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -723,10 +728,10 @@
         <stem default-y="-68">down</stem>
         <notations>
           <glissando line-type="wavy" number="1" type="start"/>
-          <slur bezier-x="3" bezier-y="-13" default-x="6" default-y="-58" number="1" placement="below" type="start"/>
+          <slur bezier-x="1" bezier-y="-12" default-x="6" default-y="-58" number="1" placement="below" type="start"/>
         </notations>
       </note>
-      <note default-x="315">
+      <note default-x="301">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -738,12 +743,17 @@
         <stem default-y="-85">down</stem>
         <notations>
           <glissando line-type="wavy" number="1" type="stop"/>
-          <slur bezier-x="-13" bezier-y="-3" default-x="-5" default-y="-75" number="1" type="stop"/>
+          <slur bezier-x="-12" bezier-y="-2" default-x="-5" default-y="-75" number="1" type="stop"/>
         </notations>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="186">
+    <measure number="5" width="179">
+      <direction>
+        <direction-type>
+          <words default-x="7" default-y="16" valign="top">2</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>G</step>
@@ -786,9 +796,9 @@
         <stem default-y="0">up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="7" bezier-y="7" default-x="13" default-y="5" number="1" placement="above" type="start"/>
+          <slur bezier-x="6" bezier-y="7" default-x="13" default-y="5" number="1" placement="above" type="start"/>
         </notations>
-        <lyric default-y="-103" number="1">
+        <lyric default-y="-103" number="1" relative-x="3">
           <syllabic>middle</syllabic>
           <text>ра</text>
         </lyric>
@@ -823,7 +833,7 @@
           <text>мі,</text>
         </lyric>
       </note>
-      <note default-x="167">
+      <note default-x="161">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -896,7 +906,7 @@
         <dot/>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="167">
+      <note default-x="161">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -907,7 +917,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="309">
+    <measure number="6" width="330">
       <attributes>
         <time>
           <beats>6</beats>
@@ -929,7 +939,7 @@
           <text>над</text>
         </lyric>
       </note>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -941,14 +951,14 @@
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="8" bezier-y="6" default-x="13" default-y="10" number="1" placement="above" type="start"/>
+          <slur bezier-x="7" bezier-y="5" default-x="13" default-y="10" number="1" placement="above" type="start"/>
         </notations>
-        <lyric default-y="-100" number="1" relative-x="4">
+        <lyric default-y="-100" number="1" relative-x="7">
           <syllabic>begin</syllabic>
           <text>ши</text>
         </lyric>
       </note>
-      <note default-x="98">
+      <note default-x="96">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -960,10 +970,10 @@
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur bezier-x="-4" bezier-y="9" default-x="12" default-y="5" number="1" type="stop"/>
+          <slur bezier-x="-3" bezier-y="8" default-x="12" default-y="5" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="125">
+      <note default-x="122">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -977,7 +987,7 @@
           <text>пко</text>
         </lyric>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -992,7 +1002,7 @@
           <text>ю</text>
         </lyric>
       </note>
-      <note default-x="185">
+      <note default-x="183">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1011,7 +1021,7 @@
           <text>ста</text>
         </lyric>
       </note>
-      <note default-x="215">
+      <note default-x="212">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1027,7 +1037,7 @@
           <slur bezier-x="-6" bezier-y="11" default-x="12" default-y="-5" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="238">
+      <note default-x="235">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1043,7 +1053,7 @@
           <text>ла.</text>
         </lyric>
       </note>
-      <note default-x="273">
+      <note default-x="265">
         <rest>
           <display-step>A</display-step>
           <display-octave>5</display-octave>
@@ -1066,7 +1076,7 @@
         <type>quarter</type>
         <stem default-y="-73">down</stem>
       </note>
-      <note default-x="79">
+      <note default-x="78">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1077,10 +1087,10 @@
         <stem default-y="-75">down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="4" bezier-y="-9" default-x="1" default-y="-80" number="1" placement="below" type="start"/>
+          <slur bezier-x="3" bezier-y="-8" default-x="1" default-y="-80" number="1" placement="below" type="start"/>
         </notations>
       </note>
-      <note default-x="98">
+      <note default-x="96">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -1092,10 +1102,10 @@
         <stem default-y="-80">down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur bezier-x="-7" bezier-y="-6" default-x="0" default-y="-85" number="1" type="stop"/>
+          <slur bezier-x="-7" bezier-y="-5" default-x="0" default-y="-85" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="125">
+      <note default-x="122">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1106,7 +1116,7 @@
         <type>eighth</type>
         <stem default-y="-85">down</stem>
       </note>
-      <note default-x="157">
+      <note default-x="155">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1116,7 +1126,7 @@
         <type>eighth</type>
         <stem default-y="-90">down</stem>
       </note>
-      <note default-x="185">
+      <note default-x="183">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1132,7 +1142,7 @@
           <slur bezier-x="7" bezier-y="-10" default-x="1" default-y="-90" number="1" placement="below" type="start"/>
         </notations>
       </note>
-      <note default-x="215">
+      <note default-x="212">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1147,7 +1157,7 @@
           <slur bezier-x="-10" bezier-y="-7" default-x="0" default-y="-95" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="238">
+      <note default-x="235">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1158,7 +1168,7 @@
         <dot/>
         <stem default-y="-83">down</stem>
       </note>
-      <note default-x="273">
+      <note default-x="265">
         <rest>
           <display-step>C</display-step>
           <display-octave>4</display-octave>
@@ -1170,6 +1180,518 @@
       <barline location="right">
         <bar-style>light-heavy</bar-style>
         <repeat direction="backward" winged="none"/>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="7" width="364">
+      <print new-system="yes">
+        <system-layout>
+          <system-distance>81</system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <time symbol="common">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <direction>
+        <direction-type>
+          <words default-x="138" default-y="11" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="143">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-80" number="1" relative-x="3">
+          <syllabic>single</syllabic>
+          <text>2.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>Ма</text>
+        </lyric>
+      </note>
+      <note default-x="189">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-5">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>end</syllabic>
+          <text>ти</text>
+        </lyric>
+      </note>
+      <note default-x="226">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-10">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>begin</syllabic>
+          <text>Си</text>
+        </lyric>
+      </note>
+      <note default-x="271">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="5">up</stem>
+        <notations>
+          <slur bezier-x="16" bezier-y="10" default-x="18" default-y="-5" number="1" orientation="over" type="start"/>
+          <glissando line-type="wavy" number="1" type="start"/>
+        </notations>
+        <lyric default-y="-80" number="1">
+          <syllabic>end</syllabic>
+          <text>на</text>
+          <extend type="start"/>
+        </lyric>
+      </note>
+      <note default-x="330">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-5">up</stem>
+        <notations>
+          <slur bezier-x="-11" bezier-y="15" default-x="7" default-y="-15" number="1" type="stop"/>
+          <glissando line-type="wavy" number="1" type="stop"/>
+        </notations>
+        <lyric number="1">
+          <extend type="stop"/>
+        </lyric>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note default-x="143">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-71">down</stem>
+      </note>
+      <note default-x="189">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-76">down</stem>
+      </note>
+      <note default-x="226">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem default-y="-74.5">down</stem>
+      </note>
+      <note default-x="271">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-68">down</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="start"/>
+          <slur bezier-x="12" bezier-y="-15" default-x="6" default-y="-58" number="1" placement="below" type="start"/>
+        </notations>
+      </note>
+      <note default-x="330">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-77">down</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="stop"/>
+          <slur bezier-x="-16" bezier-y="-10" default-x="-5" default-y="-67" number="1" type="stop"/>
+        </notations>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="8" width="222">
+      <note default-x="13">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>begin</syllabic>
+          <text>по</text>
+        </lyric>
+      </note>
+      <note default-x="45">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>middle</syllabic>
+          <text>ро</text>
+        </lyric>
+      </note>
+      <note default-x="76">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="8" bezier-y="8" default-x="13" default-y="5" number="1" placement="above" type="start"/>
+        </notations>
+        <lyric default-y="-80" number="1" relative-x="4">
+          <syllabic>middle</syllabic>
+          <text>ди</text>
+        </lyric>
+      </note>
+      <note default-x="103">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-5">up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-7" bezier-y="9" default-x="12" default-y="3" number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="130">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-10">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>end</syllabic>
+          <text>ла</text>
+        </lyric>
+      </note>
+      <note default-x="184">
+        <rest>
+          <display-step>D</display-step>
+          <display-octave>5</display-octave>
+        </rest>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note default-x="13">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-71">down</stem>
+      </note>
+      <note default-x="45">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-71">down</stem>
+      </note>
+      <note default-x="76">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-65">down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="6" bezier-y="-10" default-x="1" default-y="-70" number="1" placement="below" type="start"/>
+        </notations>
+      </note>
+      <note default-x="103">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-70">down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-10" bezier-y="-7" default-x="0" default-y="-75" number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="130">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-79.5">down</stem>
+      </note>
+      <note default-x="188">
+        <rest>
+          <display-step>C</display-step>
+          <display-octave>4</display-octave>
+        </rest>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="253">
+      <direction>
+        <direction-type>
+          <words default-x="7" default-y="10" valign="top">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-80" number="1" relative-x="5">
+          <syllabic>single</syllabic>
+          <text>2.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>при</text>
+        </lyric>
+      </note>
+      <note default-x="68">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>middle</syllabic>
+          <text>тру</text>
+        </lyric>
+      </note>
+      <note default-x="103">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="8" bezier-y="8" default-x="13" default-y="5" number="1" placement="above" type="start"/>
+        </notations>
+        <lyric default-y="-80" number="1" relative-x="3">
+          <syllabic>middle</syllabic>
+          <text>си</text>
+        </lyric>
+      </note>
+      <note default-x="130">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-5">up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-7" bezier-y="9" default-x="12" default-y="3" number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="158">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-10">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>end</syllabic>
+          <text>ла</text>
+        </lyric>
+      </note>
+      <note default-x="211">
+        <rest>
+          <display-step>D</display-step>
+          <display-octave>5</display-octave>
+        </rest>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <backup>
+        <duration>16</duration>
+      </backup>
+      <note default-x="12">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-75">down</stem>
+      </note>
+      <note default-x="68">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-70">down</stem>
+      </note>
+      <note default-x="103">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-65">down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="6" bezier-y="-10" default-x="1" default-y="-70" number="1" placement="below" type="start"/>
+        </notations>
+      </note>
+      <note default-x="130">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-70">down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-10" bezier-y="-7" default-x="0" default-y="-75" number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="158">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-78">down</stem>
+      </note>
+      <note default-x="216">
+        <rest>
+          <display-step>C</display-step>
+          <display-octave>4</display-octave>
+        </rest>
+        <duration>2</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
       </barline>
     </measure>
   </part>

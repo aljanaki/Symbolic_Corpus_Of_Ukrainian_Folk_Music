@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -30,10 +30,10 @@
     <system-layout>
       <system-margins>
         <left-margin>0</left-margin>
-        <right-margin>0</right-margin>
+        <right-margin>491</right-margin>
       </system-margins>
-      <system-distance>110</system-distance>
-      <top-system-distance>67</top-system-distance>
+      <system-distance>56</system-distance>
+      <top-system-distance>23</top-system-distance>
     </system-layout>
     <appearance>
       <line-width type="stem">0.7682</line-width>
@@ -66,7 +66,7 @@
     <credit-words default-x="345" default-y="853" valign="top">80 Помірно</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="119" default-y="630" font-size="17" valign="top" xml:space="preserve">1. Ой в полі, в полі 
+    <credit-words default-x="124" default-y="598" font-size="17" valign="top" xml:space="preserve">1. Ой в полі, в полі 
 Криниця стоїть,
 Сьвятий вечір!**
 2. Коло криниці 
@@ -85,7 +85,7 @@
 лівни, 1934 р. н. – Касета № 3, ст. А, № 14. Нотація та ред. тексту Єфремової Л. О., № 48.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="726" default-y="635" font-size="17" valign="top" xml:space="preserve">10. Друга любила, – 
+    <credit-words default-x="737" default-y="601" font-size="17" valign="top" xml:space="preserve">10. Друга любила, – 
 Дудку купила,
 11. Третя любила, – 
 Пісні навчила.
@@ -94,7 +94,7 @@
 Будьте здорові!</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="409" default-y="615" font-size="17" valign="top" xml:space="preserve">5. Прийшов до нього 
+    <credit-words default-x="414" default-y="600" font-size="17" valign="top" xml:space="preserve">5. Прийшов до нього 
 Батенько його:
 6. – Ой сину, сину, 
 Сину Василю,
@@ -104,6 +104,9 @@
 Аж три дівонькі.
 9. Їдна любила, – 
 Коня купила,</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="289" default-y="823" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -178,7 +181,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem default-y="-55">down</stem>
-        <lyric default-y="-73" number="2" relative-x="-6">
+        <lyric default-y="-73" number="2">
           <syllabic>single</syllabic>
           <text>1.</text>
           <elision> </elision>
@@ -468,6 +471,82 @@
         <notations>
           <slur bezier-x="-8" bezier-y="8" default-x="6" default-y="-5" number="1" type="stop"/>
         </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="355">
+      <print new-system="yes">
+        <system-layout>
+          <system-distance>66</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words default-x="78" default-y="10" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="88">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <lyric default-y="-80" number="2" relative-x="-5">
+          <syllabic>single</syllabic>
+          <text>3.</text>
+          <elision> </elision>
+          <syllabic>single</syllabic>
+          <text>Там</text>
+        </lyric>
+      </note>
+      <note default-x="142">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="10">up</stem>
+        <lyric default-y="-80" number="2">
+          <syllabic>begin</syllabic>
+          <text>Ва</text>
+        </lyric>
+      </note>
+      <note default-x="193">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <lyric default-y="-79" number="2">
+          <syllabic>middle</syllabic>
+          <text>силь</text>
+        </lyric>
+      </note>
+      <note default-x="244">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="10">up</stem>
+        <lyric default-y="-80" number="2" relative-x="3">
+          <syllabic>end</syllabic>
+          <text>ко</text>
+        </lyric>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

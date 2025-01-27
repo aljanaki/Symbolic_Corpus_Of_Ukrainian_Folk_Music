@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -100,6 +100,9 @@
   </credit>
   <credit page="1">
     <credit-words default-x="531" default-y="44" valign="top">96</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="623" default-y="1205" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -427,7 +430,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="840">
+    <measure number="3" width="531">
       <print new-system="yes">
         <system-layout>
           <system-distance>60</system-distance>
@@ -447,7 +450,7 @@
           <text>сні</text>
         </lyric>
       </note>
-      <note default-x="193">
+      <note default-x="137">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -458,14 +461,14 @@
         <stem default-y="-10">up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="25" bezier-y="-18" default-x="6" default-y="-55" number="1" placement="below" type="start"/>
+          <slur bezier-x="16" bezier-y="-12" default-x="6" default-y="-55" number="1" placement="below" type="start"/>
         </notations>
         <lyric default-y="-80" number="1" relative-x="10">
           <syllabic>middle</syllabic>
           <text>жеч</text>
         </lyric>
       </note>
-      <note default-x="281">
+      <note default-x="190">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -476,10 +479,10 @@
         <stem default-y="-5">up</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur bezier-x="-22" bezier-y="-21" default-x="6" default-y="-50" number="1" type="stop"/>
+          <slur bezier-x="-14" bezier-y="-15" default-x="6" default-y="-50" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="369">
+      <note default-x="243">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -493,7 +496,7 @@
           <text>ки</text>
         </lyric>
       </note>
-      <note default-x="512">
+      <note default-x="328">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -507,7 +510,7 @@
           <text>впа</text>
         </lyric>
       </note>
-      <note default-x="654">
+      <note default-x="414">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -518,14 +521,14 @@
         <stem default-y="-10">up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="20" bezier-y="-23" default-x="6" default-y="-55" number="1" placement="below" type="start"/>
+          <slur bezier-x="11" bezier-y="-17" default-x="6" default-y="-55" number="1" placement="below" type="start"/>
         </notations>
         <lyric default-y="-80" number="1" relative-x="4">
           <syllabic>end</syllabic>
           <text>ли.</text>
         </lyric>
       </note>
-      <note default-x="742">
+      <note default-x="467">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -536,8 +539,82 @@
         <stem default-y="-15">up</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur bezier-x="-27" bezier-y="-15" default-x="6" default-y="-70" number="1" type="stop"/>
+          <slur bezier-x="-19" bezier-y="-9" default-x="6" default-y="-70" number="1" type="stop"/>
         </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="309">
+      <direction>
+        <direction-type>
+          <words default-x="9" default-y="15" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="13">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="10">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>single</syllabic>
+          <text>4.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>по</text>
+        </lyric>
+        <lyric default-y="-97" number="2">
+          <syllabic>single</syllabic>
+          <text>8.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>по</text>
+        </lyric>
+      </note>
+      <note default-x="92">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>middle</syllabic>
+          <text>ме</text>
+        </lyric>
+        <lyric default-y="-97" number="2">
+          <syllabic>middle</syllabic>
+          <text>ди</text>
+        </lyric>
+      </note>
+      <note default-x="171">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>end</syllabic>
+          <text>жи</text>
+        </lyric>
+        <lyric default-y="-97" number="2">
+          <syllabic>end</syllabic>
+          <text>ви</text>
+          <elision> </elision>
+          <syllabic>single</syllabic>
+          <text>­</text>
+        </lyric>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

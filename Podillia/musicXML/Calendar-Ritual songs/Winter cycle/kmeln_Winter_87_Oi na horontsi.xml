@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-20</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -29,11 +29,11 @@
     </page-layout>
     <system-layout>
       <system-margins>
-        <left-margin>0</left-margin>
+        <left-margin>2</left-margin>
         <right-margin>0</right-margin>
       </system-margins>
-      <system-distance>96</system-distance>
-      <top-system-distance>67</top-system-distance>
+      <system-distance>137</system-distance>
+      <top-system-distance>108</top-system-distance>
     </system-layout>
     <appearance>
       <line-width type="stem">0.7682</line-width>
@@ -134,6 +134,9 @@
   <credit page="1">
     <credit-words default-x="90" default-y="179" valign="top" xml:space="preserve">Зап. влітку 1986 р. Дмитренко М. К. у с. Яхнівці Волочиського р-ну Хмельницької обл. від Щес-
 няк Ніни Іванівни. Нотація Єфремової Л. О.</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="529" default-y="1213" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -405,10 +408,14 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="372">
+    <measure number="4" width="359">
       <print new-system="yes">
         <system-layout>
-          <system-distance>63</system-distance>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>2</right-margin>
+          </system-margins>
+          <system-distance>58</system-distance>
         </system-layout>
       </print>
       <attributes>
@@ -432,7 +439,7 @@
           <text>тре</text>
         </lyric>
       </note>
-      <note default-x="163">
+      <note default-x="161">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -446,7 +453,7 @@
           <text>тя</text>
         </lyric>
       </note>
-      <note default-x="208">
+      <note default-x="204">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -460,7 +467,7 @@
           <text>Світ</text>
         </lyric>
       </note>
-      <note default-x="253">
+      <note default-x="247">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -474,7 +481,7 @@
           <text>лан</text>
         </lyric>
       </note>
-      <note default-x="326">
+      <note default-x="315">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -490,7 +497,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="265">
+    <measure number="5" width="252">
       <note default-x="13">
         <pitch>
           <step>B</step>
@@ -506,7 +513,7 @@
           <text>при</text>
         </lyric>
       </note>
-      <note default-x="58">
+      <note default-x="56">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -520,7 +527,7 @@
           <text>до</text>
         </lyric>
       </note>
-      <note default-x="103">
+      <note default-x="98">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -534,7 +541,7 @@
           <text>ли</text>
         </lyric>
       </note>
-      <note default-x="148">
+      <note default-x="140">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -548,7 +555,7 @@
           <text>нонь</text>
         </lyric>
       </note>
-      <note default-x="220">
+      <note default-x="209">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -564,7 +571,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="6" width="207">
+    <measure number="6" width="231">
       <attributes>
         <time>
           <beats>4</beats>
@@ -585,7 +592,7 @@
           <text>льон</text>
         </lyric>
       </note>
-      <note default-x="88">
+      <note default-x="86">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -599,7 +606,7 @@
           <text>бе</text>
         </lyric>
       </note>
-      <note default-x="155">
+      <note default-x="150">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -612,6 +619,139 @@
           <syllabic>end</syllabic>
           <text>ре.</text>
         </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="7" width="328">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>1</right-margin>
+          </system-margins>
+          <system-distance>55</system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <time>
+          <beats>3</beats>
+          <beat-type>8</beat-type>
+        </time>
+      </attributes>
+      <direction>
+        <direction-type>
+          <words default-x="102" default-y="13" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="118">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-35">down</stem>
+      </note>
+      <note default-x="185">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="253">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-45">down</stem>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="8" width="193">
+      <direction>
+        <direction-type>
+          <words default-x="7" default-y="6" valign="top">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <note default-x="123">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="322">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>8</beat-type>
+        </time>
+      </attributes>
+      <direction>
+        <direction-type>
+          <words default-x="-29" default-y="109" valign="top">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="46">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <note default-x="120">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="5">up</stem>
+      </note>
+      <note default-x="238">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="5">up</stem>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

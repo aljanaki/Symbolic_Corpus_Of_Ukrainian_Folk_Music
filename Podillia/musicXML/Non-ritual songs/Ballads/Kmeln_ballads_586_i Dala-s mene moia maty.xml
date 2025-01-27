@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-01</encoding-date>
+      <encoding-date>2025-01-24</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -62,7 +62,7 @@
     <credit-words default-x="348" default-y="1235" valign="top">54 [Вільно]</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="125" default-y="923" font-size="14" valign="top" xml:space="preserve">1. і Дала-с мене моя мати
+    <credit-words default-x="126" default-y="912" font-size="14" valign="top" xml:space="preserve">1. і Дала-с мене моя мати
 За вісокі гори,
 Та ни дала мені віна,
 Тільки єдні бджоли.
@@ -88,7 +88,7 @@
 – Чого-с прийшла, дочко?</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="412" default-y="921" font-size="14" valign="top" xml:space="preserve">7. – Й тобі, батьку, не питати,
+    <credit-words default-x="415" default-y="906" font-size="14" valign="top" xml:space="preserve">7. – Й тобі, батьку, не питати,
 Мені ни казати,
 Й давай, батьку, штири воли,
 Бо вигоня з хати.
@@ -110,10 +110,7 @@
 Серед хати б’ються.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="524" default-y="45" valign="top">412</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="730" default-y="925" valign="top" xml:space="preserve">12. Йа вже ж тоті сиві воли
+    <credit-words default-x="731" default-y="899" valign="top" xml:space="preserve">12. Йа вже ж тоті сиві воли
 Рогами ся носят,
 Йа вже ж нашу єдиницю
 На вітер винося.
@@ -138,6 +135,9 @@
     <credit-words default-x="121" default-y="235" valign="top" xml:space="preserve">Зап. 19 липня 1978 р. Дем’ян Г. В. у с. Студениця Кам’янець-Подільського р-ну Хмельницької 
 обл. від Мазур Ольги Федорівни, 1924 р. н. – ІМФЕ, ф. 14-3, од.зб. 973, арк. 60-61 (текст), арк. 
 233 (мел.), № 42. Нотація Мишанича М. В.</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="663" default-y="1214" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -197,6 +197,12 @@
           <straight/>
         </swing>
       </sound>
+      <direction directive="yes" placement="above" system="only-top">
+        <direction-type>
+          <symbol default-y="24" font-family="Finale Maestro" font-size="18" relative-x="36">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> = </words>
+        </direction-type>
+      </direction>
       <note default-x="118">
         <pitch>
           <step>D</step>
@@ -737,7 +743,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="489">
+    <measure number="7" width="355">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -761,7 +767,7 @@
           <text>тіль</text>
         </lyric>
       </note>
-      <note default-x="164">
+      <note default-x="138">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -775,7 +781,7 @@
           <text>ки</text>
         </lyric>
       </note>
-      <note default-x="243">
+      <note default-x="190">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -790,7 +796,7 @@
           <text>єд</text>
         </lyric>
       </note>
-      <note default-x="410">
+      <note default-x="302">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -806,7 +812,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="340">
+    <measure number="8" width="235">
       <note default-x="13">
         <pitch>
           <step>G</step>
@@ -822,7 +828,7 @@
           <text>бджо</text>
         </lyric>
       </note>
-      <note default-x="156">
+      <note default-x="108">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -836,13 +842,100 @@
           <text>ли.</text>
         </lyric>
       </note>
-      <note default-x="223">
+      <note default-x="153">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
         <type>quarter</type>
         <notations>
           <fermata default-x="-8" default-y="5" type="upright"/>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="239">
+      <direction placement="above">
+        <direction-type>
+          <words default-y="2" relative-x="-13">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="13">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+        </time-modification>
+        <stem default-y="-50">down</stem>
+        <notations>
+          <tuplet bracket="yes" number="1" placement="above" type="start"/>
+        </notations>
+      </note>
+      <note default-x="51">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+        </time-modification>
+        <stem default-y="-45">down</stem>
+        <notations>
+          <tuplet number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="114">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-40">down</stem>
+      </note>
+      <note default-x="165">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem default-y="-50">down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <slur bezier-x="10" bezier-y="9" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
+        </notations>
+      </note>
+      <note default-x="197">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem default-y="-55">down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <slur bezier-x="-9" bezier-y="10" default-x="6" default-y="-7" number="1" type="stop"/>
         </notations>
       </note>
       <barline location="right">

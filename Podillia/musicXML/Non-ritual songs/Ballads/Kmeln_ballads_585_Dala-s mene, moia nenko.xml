@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-01</encoding-date>
+      <encoding-date>2025-01-24</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -59,11 +59,10 @@
     <credit-words default-x="290" default-y="1122" font-size="20" valign="top">585. Дала-сь мене, моя ненько (13-БР-04)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="306" default-y="1064" font-size="11" valign="top">= </credit-words>
-    <credit-words font-size="12">44 [Вільно]</credit-words>
+    <credit-words default-x="306" default-y="1064" font-size="12" valign="top">44 [Вільно]</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="119" default-y="767" font-size="18" valign="top" xml:space="preserve">1. Дала-сь мене, моя ненько,
+    <credit-words default-x="119" default-y="755" font-size="18" valign="top" xml:space="preserve">1. Дала-сь мене, моя ненько,
 Далеко й від себе,
 Тепер ходиш, виглядаєш,
 Чи не йду й до тебе.
@@ -108,9 +107,12 @@
     <credit-words default-x="529" default-y="40" valign="top">411</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="108" default-y="150" valign="top" xml:space="preserve">Зап. 23 липня 1978 р. Дем’ян Г. В. у с. Лоївці Новоушицького р-ну Хмельницької обл. від Розової 
+    <credit-words default-x="114" default-y="89" valign="top" xml:space="preserve">Зап. 23 липня 1978 р. Дем’ян Г. В. у с. Лоївці Новоушицького р-ну Хмельницької обл. від Розової 
 Марії Василівни, 1930 р. н. – ІМФЕ, ф. 14-3, од. зб. 973, арк. 147-148 (текст), арк. 251 (мел.), № 
 102. Нотація Мишанича М. В.</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="248" default-y="1036" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -171,9 +173,10 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="16">half note</words>
+          <symbol default-y="14" font-family="MaestroTimes" font-size="18" relative-x="41">metNoteHalfUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> = </words>
         </direction-type>
       </direction>
       <note default-x="84">
@@ -736,7 +739,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="337">
+    <measure number="8" width="250">
       <print new-system="yes">
         <system-layout>
           <system-distance>58</system-distance>
@@ -756,7 +759,7 @@
           <text>чи</text>
         </lyric>
       </note>
-      <note default-x="113">
+      <note default-x="94">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -770,7 +773,7 @@
           <text>не</text>
         </lyric>
       </note>
-      <note default-x="175">
+      <note default-x="137">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -784,7 +787,7 @@
           <text>йду</text>
         </lyric>
       </note>
-      <note default-x="275">
+      <note default-x="206">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -800,7 +803,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="235">
+    <measure number="9" width="167">
       <note default-x="13">
         <pitch>
           <step>G</step>
@@ -819,7 +822,7 @@
           <text>те</text>
         </lyric>
       </note>
-      <note default-x="173">
+      <note default-x="123">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -837,7 +840,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="267">
+    <measure number="10" width="193">
       <note default-x="13">
         <pitch>
           <step>G</step>
@@ -852,7 +855,7 @@
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="66">
+      <note default-x="50">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -867,17 +870,130 @@
           <text>бе.</text>
         </lyric>
       </note>
-      <note default-x="119">
+      <note default-x="87">
         <rest/>
         <duration>6</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
-      <note default-x="172">
+      <note default-x="123">
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
         <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="11" width="123">
+      <direction placement="above">
+        <direction-type>
+          <words default-y="7" relative-x="-8">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="13">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>18</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-45">down</stem>
+        <notations>
+          <slur bezier-x="15" bezier-y="18" default-x="6" default-y="3" number="1" placement="above" type="start"/>
+        </notations>
+      </note>
+      <note default-x="65">
+        <grace/>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem default-y="5">up</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+      </note>
+      <note default-x="76">
+        <grace/>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem default-y="8">up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <slur bezier-x="-20" bezier-y="13" default-x="5" default-y="13" number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="87">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-40">down</stem>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="12" width="108">
+      <note default-x="13">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+        </time-modification>
+        <stem default-y="-45">down</stem>
+        <notations>
+          <tuplet bracket="yes" number="1" placement="above" type="start"/>
+        </notations>
+      </note>
+      <note default-x="42">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+        </time-modification>
+        <stem default-y="-50">down</stem>
+      </note>
+      <note default-x="70">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+        </time-modification>
+        <stem default-y="-50">down</stem>
+        <notations>
+          <tuplet number="1" type="stop"/>
+        </notations>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

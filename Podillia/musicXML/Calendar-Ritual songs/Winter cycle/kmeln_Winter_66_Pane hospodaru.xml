@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-20</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -119,6 +119,9 @@
 лівці Кам’янець-Подільського р-ну Хмельницької обл. від Мачул І. Г., 1893 р. н., Голубовської Є. 
 О., 1930 р. н., Остафійчук Н. В., 1914 р. н., Марущак В. А., 1940 р. н. – ІМФЕ, ф. 14-5, од. зб. 419, 
 арк. 94-95, пл. ф. 14-10, од. зб. 1180 (1). Нотація З. Василенко. </credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="288" default-y="1104" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -512,7 +515,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="9" width="277">
+    <measure number="9" width="234">
       <print new-system="yes">
         <system-layout>
           <system-distance>62</system-distance>
@@ -533,7 +536,7 @@
           <text>Гос</text>
         </lyric>
       </note>
-      <note default-x="151">
+      <note default-x="136">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -547,7 +550,7 @@
           <text>по</text>
         </lyric>
       </note>
-      <note default-x="214">
+      <note default-x="185">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -575,7 +578,7 @@
         <type>quarter</type>
         <stem default-y="-73">down</stem>
       </note>
-      <note default-x="151">
+      <note default-x="136">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -585,7 +588,7 @@
         <type>quarter</type>
         <stem default-y="-73">down</stem>
       </note>
-      <note default-x="214">
+      <note default-x="185">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -597,7 +600,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="10" width="185">
+    <measure number="10" width="145">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -612,7 +615,7 @@
           <text>Бо</text>
         </lyric>
       </note>
-      <note default-x="120">
+      <note default-x="95">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -645,7 +648,7 @@
       </forward>
     </measure>
     <!--=======================================================-->
-    <measure number="11" width="219">
+    <measure number="11" width="172">
       <note default-x="15">
         <pitch>
           <step>F</step>
@@ -661,7 +664,7 @@
           <text>на</text>
         </lyric>
       </note>
-      <note default-x="78">
+      <note default-x="63">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -672,14 +675,14 @@
         <stem default-y="5">up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="11" bezier-y="-11" default-x="6" default-y="-43" number="1" placement="below" type="start"/>
+          <slur bezier-x="8" bezier-y="-10" default-x="6" default-y="-43" number="1" placement="below" type="start"/>
         </notations>
         <lyric default-y="-95" number="1" relative-x="3">
           <syllabic>begin</syllabic>
           <text>не</text>
         </lyric>
       </note>
-      <note default-x="117">
+      <note default-x="93">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -691,10 +694,10 @@
         <stem default-y="0">up</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur bezier-x="-12" bezier-y="-10" default-x="6" default-y="-45" number="1" type="stop"/>
+          <slur bezier-x="-9" bezier-y="-8" default-x="6" default-y="-45" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="155">
+      <note default-x="123">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -715,7 +718,7 @@
         <duration>4</duration>
         <voice>2</voice>
       </forward>
-      <note default-x="155">
+      <note default-x="123">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -727,7 +730,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="12" width="161">
+    <measure number="12" width="129">
       <note default-x="13">
         <pitch>
           <step>D</step>
@@ -744,6 +747,55 @@
         <lyric default-y="-95" number="1">
           <syllabic>end</syllabic>
           <text>си.</text>
+        </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="13" width="162">
+      <direction>
+        <direction-type>
+          <words default-x="17" default-y="2" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="15">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-20">up</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>single</syllabic>
+          <text>2­14.</text>
+          <extend type="start"/>
+        </lyric>
+      </note>
+      <note default-x="61">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-10">up</stem>
+      </note>
+      <note default-x="106">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-5">up</stem>
+        <lyric number="1">
+          <extend type="stop"/>
         </lyric>
       </note>
       <barline location="right">

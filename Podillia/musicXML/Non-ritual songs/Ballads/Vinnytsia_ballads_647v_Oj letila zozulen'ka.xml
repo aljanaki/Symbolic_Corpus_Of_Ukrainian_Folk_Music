@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -29,11 +29,11 @@
     </page-layout>
     <system-layout>
       <system-margins>
-        <left-margin>0</left-margin>
+        <left-margin>1</left-margin>
         <right-margin>0</right-margin>
       </system-margins>
-      <system-distance>110</system-distance>
-      <top-system-distance>67</top-system-distance>
+      <system-distance>129</system-distance>
+      <top-system-distance>86</top-system-distance>
     </system-layout>
     <appearance>
       <line-width type="stem">0.7682</line-width>
@@ -62,7 +62,7 @@
     <credit-words default-x="326" default-y="1279" font-size="19" valign="top">647. Ой летіла зозуленька (19-БР-06)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="495" default-y="1243" valign="top">50 Сумно</credit-words>
+    <credit-words default-x="329" default-y="1245" valign="top">50 Сумно</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="279" default-y="1228" valign="top">Одна</credit-words>
@@ -74,7 +74,7 @@
     <credit-words default-x="528" default-y="50" valign="top">406</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="136" default-y="898" font-size="17" valign="top" xml:space="preserve">1. Ой летіла зозуленька
+    <credit-words default-x="136" default-y="824" font-size="17" valign="top" xml:space="preserve">1. Ой летіла зозуленька
 Через круту гору,
 Виклювала пшениченьку,
 Лишила полову.*
@@ -88,7 +88,7 @@
 З тихого Дунаю.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="593" default-y="890" font-size="17" valign="top" xml:space="preserve">4. Сім раз води я принесла,
+    <credit-words default-x="598" default-y="829" font-size="17" valign="top" xml:space="preserve">4. Сім раз води я принесла,
 Восьмий напилася,
 Якби ж мені рідна мати,
 Я б не журилася.
@@ -171,14 +171,16 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="25">quarter note equals</words>
-        </direction-type>
-      </direction>
       <direction placement="below">
         <direction-type>
           <words default-y="-21" relative-x="-200">Вар.</words>
+        </direction-type>
+      </direction>
+      <direction directive="yes" placement="above" system="only-top">
+        <direction-type>
+          <symbol default-y="29" font-family="Finale Maestro" font-size="18" relative-x="-9">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="154">
@@ -521,7 +523,11 @@
     <measure number="3" width="306">
       <print new-system="yes">
         <system-layout>
-          <system-distance>62</system-distance>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>91</system-distance>
         </system-layout>
       </print>
       <attributes>
@@ -1139,7 +1145,7 @@
     <measure number="6" width="318">
       <print new-system="yes">
         <system-layout>
-          <system-distance>48</system-distance>
+          <system-distance>101</system-distance>
         </system-layout>
       </print>
       <attributes>
@@ -1311,7 +1317,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="222">
+    <measure number="7" width="221">
       <attributes>
         <time>
           <beats>5</beats>
@@ -1369,7 +1375,7 @@
           <slur bezier-x="-7" bezier-y="10" default-x="12" default-y="35" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="127">
+      <note default-x="126">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1442,7 +1448,7 @@
         <type>quarter</type>
         <stem default-y="-55">down</stem>
       </note>
-      <note default-x="127">
+      <note default-x="126">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1486,7 +1492,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="300">
+    <measure number="8" width="299">
       <attributes>
         <time>
           <beats>11</beats>
@@ -1557,7 +1563,7 @@
           <slur bezier-x="-8" bezier-y="6" default-x="12" default-y="45" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="164">
+      <note default-x="163">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -1578,7 +1584,7 @@
           <text>по</text>
         </lyric>
       </note>
-      <note default-x="191">
+      <note default-x="190">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -1664,7 +1670,7 @@
           <slur bezier-x="-8" bezier-y="-6" default-x="0" default-y="-70" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="164">
+      <note default-x="163">
         <pitch>
           <step>A</step>
           <alter>1</alter>

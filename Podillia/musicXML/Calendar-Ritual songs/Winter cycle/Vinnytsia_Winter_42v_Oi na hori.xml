@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-06</encoding-date>
+      <encoding-date>2025-01-27</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -29,11 +29,11 @@
     </page-layout>
     <system-layout>
       <system-margins>
-        <left-margin>0</left-margin>
-        <right-margin>0</right-margin>
+        <left-margin>1</left-margin>
+        <right-margin>499</right-margin>
       </system-margins>
-      <system-distance>110</system-distance>
-      <top-system-distance>67</top-system-distance>
+      <system-distance>60</system-distance>
+      <top-system-distance>28</top-system-distance>
     </system-layout>
     <appearance>
       <line-width type="stem">0.7682</line-width>
@@ -63,7 +63,7 @@
     <credit-words default-x="498" default-y="790" font-size="19" valign="top">42. Ой на горі (ОК-ЩК)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="93" default-y="574" font-size="17" valign="top" xml:space="preserve">1. Ой на горі 
+    <credit-words default-x="88" default-y="507" font-size="17" valign="top" xml:space="preserve">1. Ой на горі 
 Вогонь горить.
 Щедрий вечір,
 Святий вечір!*
@@ -78,44 +78,39 @@
     <credit-words default-x="313" default-y="738" valign="top">85 Помірно</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="341" default-y="583" font-size="17" valign="top" xml:space="preserve">3. А Меланка
+    <credit-words default-x="341" default-y="502" font-size="17" valign="top" xml:space="preserve">3. А Меланка
 Коня водить.
-
 </credit-words>
     <credit-words font-size="17" font-style="italic">Вар.:</credit-words>
     <credit-words font-size="17" font-style="normal" xml:space="preserve"> 
 </credit-words>
     <credit-words font-size="17" font-style="italic" xml:space="preserve">2. Ой там Василь
 Плужком горе. 
-
 3. А Меланка
 Кутью носить.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="560" default-y="583" font-size="17" valign="top" xml:space="preserve">4. Коня водить,
+    <credit-words default-x="564" default-y="503" font-size="17" valign="top" xml:space="preserve">4. Коня водить,
 Хустку носить.
-
 5. А в тій хустці 
 Троє зілля.
-
 6. Перше зілля –
 Васильочок.
-
 7. Друге зілля –
 Барвіночок.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="771" default-y="583" font-size="17" valign="top" xml:space="preserve">8. Третє зілля –
+    <credit-words default-x="773" default-y="495" font-size="17" valign="top" xml:space="preserve">8. Третє зілля –
 Любисточок. 
-
 9. Васильочок
 Да у садочок.
-
 10. Барвіночок
 На віночок.
-
 11. Третє зілля
 На весілля.</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="714" default-y="734" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -204,7 +199,7 @@
           <text>Ой</text>
         </lyric>
       </note>
-      <note default-x="182">
+      <note default-x="181">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -464,6 +459,96 @@
           <syllabic>end</syllabic>
           <text>чір!</text>
         </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="210">
+      <print new-system="yes">
+        <system-layout>
+          <system-distance>71</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words default-x="98" default-y="18" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="106">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <note default-x="155">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-45">down</stem>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="129">
+      <direction>
+        <direction-type>
+          <words default-x="8" default-y="15" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="7">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <note default-x="60">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="5" bezier-y="12" default-x="6" default-y="-7" number="1" placement="above" type="start"/>
+        </notations>
+      </note>
+      <note default-x="90">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-50">down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-12" bezier-y="6" default-x="6" default-y="3" number="1" type="stop"/>
+        </notations>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

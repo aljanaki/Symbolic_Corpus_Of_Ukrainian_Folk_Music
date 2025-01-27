@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -29,11 +29,11 @@
     </page-layout>
     <system-layout>
       <system-margins>
-        <left-margin>0</left-margin>
+        <left-margin>1</left-margin>
         <right-margin>0</right-margin>
       </system-margins>
-      <system-distance>110</system-distance>
-      <top-system-distance>67</top-system-distance>
+      <system-distance>161</system-distance>
+      <top-system-distance>118</top-system-distance>
     </system-layout>
     <appearance>
       <line-width type="stem">0.7682</line-width>
@@ -111,6 +111,15 @@
 від Головко Надії Миколаївни, 1929 р. н. та Мотузяк Валентини Іванівни, 1959 р. н. – Касета № 3, 
 ст. А, № 8. Нотація та ред. тексту Єфремової Л. О., № 42.</credit-words>
   </credit>
+  <credit page="1">
+    <credit-words default-x="463" default-y="1191" valign="top">1</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="696" default-y="1194" valign="top">2</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="898" default-y="1199" valign="top">3</credit-words>
+  </credit>
   <part-list>
     <score-part id="P1">
       <part-name print-object="no">MusicXML Part</part-name>
@@ -128,7 +137,7 @@
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="340">
+    <measure number="1" width="339">
       <print>
         <page-layout>
           <page-height>1320</page-height>
@@ -185,7 +194,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem default-y="-45">down</stem>
-        <lyric default-y="-77" number="4" relative-x="-10">
+        <lyric default-y="-77" number="4" relative-x="-5">
           <syllabic>single</syllabic>
           <text>1.</text>
           <elision> </elision>
@@ -452,7 +461,7 @@
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="6" bezier-y="-12" default-x="6" default-y="-35" number="1" placement="below" type="start"/>
+          <slur bezier-x="5" bezier-y="-12" default-x="6" default-y="-35" number="1" placement="below" type="start"/>
         </notations>
         <lyric default-y="-75" number="4" relative-x="3">
           <syllabic>begin</syllabic>
@@ -487,6 +496,111 @@
           <syllabic>end</syllabic>
           <text>чір!</text>
         </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="335">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>1</right-margin>
+          </system-margins>
+          <system-distance>64</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words default-x="98" default-y="5" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="106">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+      </note>
+      <note default-x="217">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="269">
+      <direction>
+        <direction-type>
+          <words default-x="9" default-y="16" valign="top">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+      </note>
+      <note default-x="137">
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="235">
+      <direction>
+        <direction-type>
+          <words default-x="7" default-y="20" valign="top">3</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-45">down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="27" bezier-y="23" default-x="6" default-y="3" number="1" placement="above" type="start"/>
+        </notations>
+      </note>
+      <note default-x="119">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-40">down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-27" bezier-y="22" default-x="6" default-y="5" number="1" type="stop"/>
+        </notations>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

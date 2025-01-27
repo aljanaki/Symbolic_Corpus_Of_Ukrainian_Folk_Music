@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-06</encoding-date>
+      <encoding-date>2025-01-27</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -51,12 +51,12 @@
       <distance type="hyphen">60</distance>
       <distance type="beam">7.5</distance>
     </appearance>
-    <music-font font-family="Maestro,engraved" font-size="24"/>
+    <music-font font-family="Finale Maestro,engraved" font-size="24"/>
     <word-font font-family="Times New Roman" font-size="12"/>
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="123" default-y="560" valign="top" xml:space="preserve">Зап. 1972 р. Василенко З. І., Рубай Г. Т., Довженок Г. В. у с. Дмитренки Гайсинського р-ну Він-
+    <credit-words default-x="122" default-y="525" valign="top" xml:space="preserve">Зап. 1972 р. Василенко З. І., Рубай Г. Т., Довженок Г. В. у с. Дмитренки Гайсинського р-ну Він-
 ницької обл. від Колесниченко Ганни Іванівни. – ІМФЕ, ф. 14-5, од. зб. 424, арк. 22-24, № 8; фоно-
 запис ф. 14-10, од. зб. 1246. Розшифр. Виноградов Г. В. Вар. зап. 1998 р. Бідюк Л. М. у с. Сиваків-
 ці  Липовецького р-ну Вінницької обл. від гурту. Розшифр. Єфремова Л. О., № 7 (273). Див. №№
@@ -70,20 +70,16 @@
 На Гордані.
 Щедрий вечір,
 Добрий вечір.*
-
 2. Там Маруся 
 Біль білила,
-
 3. Біль білила,
 Личко мила,
-
 </credit-words>
     <credit-words font-size="16" font-style="italic" xml:space="preserve">Вар.:
 2. Там Нінуся 
 Біль білила,
 До батенька
 Говорила:
-
 3. – Ой 
          батеньку,
 Голибочку,</credit-words>
@@ -94,19 +90,14 @@
   <credit page="1">
     <credit-words default-x="548" default-y="1040" font-size="17" valign="top" xml:space="preserve">9. В мене коні
 Не ковані,
-
 10. В мене сані
 Не складані. 
-
 11. Пішла вона
 До братіка:
-
 12. – Поїдь, поїдь,
 Мій братіку,
-
 13. Та привези
 Біль біленьку.
-
 14. Братік каже:
 – Не поїду,</credit-words>
   </credit>
@@ -114,43 +105,39 @@
     <credit-words default-x="325" default-y="1038" font-size="17" font-style="italic" valign="top" xml:space="preserve">Поїдь, поїдь,
 Біль забери.</credit-words>
     <credit-words font-size="17" font-style="normal" xml:space="preserve">
-
 4. До батенька
 Говорила:
-
 5. – Хто поїде
 По біль цюю?
-
 6. Приїдь, приїдь,
 Мій батечко
-
 7. Та привези
 Біль біленьку.
-
 8. Батько каже:
 – Не поїду,</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="776" default-y="1038" font-size="17" valign="top" xml:space="preserve">15. В мене сані
 Не складані. 
-
 16. Пішла вона
 До Їванка:
-
 17. Та привези
 Біль біленьку.
-
 18. Їван каже:
 – Я поїду,
-
 19. В мене коні
 Поковані,
-
 20. В мене сані
 Поскладані. </credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="524" default-y="46" valign="top">64</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="839" default-y="1229" valign="top">1</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="396" default-y="1216" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -169,7 +156,7 @@
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="250">
+    <measure number="1" width="211">
       <print>
         <page-layout>
           <page-height>1320</page-height>
@@ -210,7 +197,7 @@
           <straight/>
         </swing>
       </sound>
-      <note default-x="110">
+      <note default-x="85">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -219,7 +206,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem default-y="-15">up</stem>
-        <lyric default-y="-79" number="1" relative-x="-9">
+        <lyric default-y="-79" number="1">
           <syllabic>single</syllabic>
           <text>1.</text>
           <elision> </elision>
@@ -227,7 +214,7 @@
           <text>Ой</text>
         </lyric>
       </note>
-      <note default-x="143">
+      <note default-x="120">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -241,7 +228,7 @@
           <text>на</text>
         </lyric>
       </note>
-      <note default-x="179">
+      <note default-x="150">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -255,7 +242,7 @@
           <text>річ</text>
         </lyric>
       </note>
-      <note default-x="218">
+      <note default-x="181">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -271,8 +258,8 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="160">
-      <note default-x="22">
+    <measure number="2" width="133">
+      <note default-x="13">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -286,7 +273,7 @@
           <text>на</text>
         </lyric>
       </note>
-      <note default-x="56">
+      <note default-x="43">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -300,7 +287,7 @@
           <text>Го</text>
         </lyric>
       </note>
-      <note default-x="95">
+      <note default-x="76">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -314,7 +301,7 @@
           <text>рда</text>
         </lyric>
       </note>
-      <note default-x="127">
+      <note default-x="101">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -330,8 +317,8 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="182">
-      <note default-x="30">
+    <measure number="3" width="146">
+      <note default-x="13">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -340,12 +327,12 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem default-y="0">up</stem>
-        <lyric default-y="-80" number="1" relative-x="-7">
+        <lyric default-y="-80" number="1" relative-x="-5">
           <syllabic>begin</syllabic>
           <text>Ще</text>
         </lyric>
       </note>
-      <note default-x="75">
+      <note default-x="53">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -359,7 +346,7 @@
           <text>дрий</text>
         </lyric>
       </note>
-      <note default-x="114">
+      <note default-x="88">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -373,7 +360,7 @@
           <text>ве</text>
         </lyric>
       </note>
-      <note default-x="150">
+      <note default-x="116">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -389,8 +376,8 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="188">
-      <note default-x="26">
+    <measure number="4" width="158">
+      <note default-x="13">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -404,7 +391,7 @@
           <text>до</text>
         </lyric>
       </note>
-      <note default-x="71">
+      <note default-x="52">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -418,7 +405,7 @@
           <text>брий</text>
         </lyric>
       </note>
-      <note default-x="110">
+      <note default-x="88">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -432,7 +419,7 @@
           <text>ве</text>
         </lyric>
       </note>
-      <note default-x="141">
+      <note default-x="113">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -445,6 +432,52 @@
           <syllabic>end</syllabic>
           <text>чір.</text>
         </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="133">
+      <note default-x="13">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-5">up</stem>
+      </note>
+      <note default-x="43">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-15">up</stem>
+      </note>
+      <note default-x="72">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="0">up</stem>
+      </note>
+      <note default-x="98">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-5">up</stem>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

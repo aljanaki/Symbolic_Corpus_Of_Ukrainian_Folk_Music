@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-03</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -104,6 +104,9 @@
   </credit>
   <credit page="1">
     <credit-words default-x="125" default-y="308" valign="top">* Таким чином розспівують кожну строфу пісні. (Л. Є.)</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="248" default-y="1191" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -445,7 +448,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="361">
+    <measure number="4" width="300">
       <print new-system="yes">
         <system-layout>
           <system-distance>60</system-distance>
@@ -466,7 +469,7 @@
           <text>а</text>
         </lyric>
       </note>
-      <note default-x="154">
+      <note default-x="134">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -480,7 +483,7 @@
           <text>лі</text>
         </lyric>
       </note>
-      <note default-x="203">
+      <note default-x="173">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -494,7 +497,7 @@
           <text>лу</text>
         </lyric>
       </note>
-      <note default-x="282">
+      <note default-x="236">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -510,7 +513,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="5" width="480">
+    <measure number="5" width="398">
       <attributes>
         <time>
           <beats>6</beats>
@@ -528,14 +531,14 @@
         <stem default-y="10">up</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="13" bezier-y="-11" default-x="6" default-y="-35" number="1" placement="below" type="start"/>
+          <slur bezier-x="11" bezier-y="-10" default-x="6" default-y="-35" number="1" placement="below" type="start"/>
         </notations>
         <lyric default-y="-67" number="2">
           <syllabic>begin</syllabic>
           <text>сто</text>
         </lyric>
       </note>
-      <note default-x="90">
+      <note default-x="82">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -546,10 +549,10 @@
         <stem default-y="15">up</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur bezier-x="-12" bezier-y="-12" default-x="6" default-y="-33" number="1" type="stop"/>
+          <slur bezier-x="-10" bezier-y="-11" default-x="6" default-y="-33" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="135">
+      <note default-x="118">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -563,7 +566,7 @@
           <text>я</text>
         </lyric>
       </note>
-      <note default-x="208">
+      <note default-x="176">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -577,7 +580,7 @@
           <text>ли</text>
         </lyric>
       </note>
-      <note default-x="280">
+      <note default-x="234">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -591,7 +594,7 @@
           <text>свя</text>
         </lyric>
       </note>
-      <note default-x="353">
+      <note default-x="293">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -603,6 +606,48 @@
         <lyric default-y="-67" number="2">
           <syllabic>end</syllabic>
           <text>ті.</text>
+        </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="143">
+      <direction>
+        <direction-type>
+          <words default-x="8" default-y="10" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="13">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-97" number="2">
+          <syllabic>single</syllabic>
+          <text>2.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>Ра</text>
+        </lyric>
+      </note>
+      <note default-x="73">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-10">up</stem>
+        <lyric default-y="-97" number="2">
+          <syllabic>end</syllabic>
+          <text>ду</text>
         </lyric>
       </note>
       <barline location="right">

@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,12 +56,12 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="138" default-y="369" valign="top" xml:space="preserve">Зап. 2003 р. Панчук О. В. у с. Волиця Керекешина Старокостянтинівського р-ну Хмельницької 
+    <credit-words default-x="137" default-y="243" valign="top" xml:space="preserve">Зап. 2003 р. Панчук О. В. у с. Волиця Керекешина Старокостянтинівського р-ну Хмельницької 
 обл. від Головко Надії Миколаївни, 1929 р. н. та Мотузяк Валентини Іванівни, 1959 р. н. – Касета 
 № 3, ст. А, № 9. Нотація та ред. тексту Єфремової Л. О., № 43.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="150" default-y="930" font-size="17" valign="top" xml:space="preserve">1. [Ой] пірвійою, (2)   
+    <credit-words default-x="133" default-y="823" font-size="17" valign="top" xml:space="preserve">1. [Ой] пірвійою, (2)   
 На брині**,
 Йаж там воює 
 Слічний*** панич 
@@ -89,7 +89,7 @@
 **** Всі, святкуючі велію, католицький переддень Різдва. Діал. (Шалак О. І.)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="425" default-y="930" font-size="17" valign="top" xml:space="preserve">4. Стали гадати 
+    <credit-words default-x="431" default-y="823" font-size="17" valign="top" xml:space="preserve">4. Стали гадати 
 Йа шо дарувати,
 Коляда,
 Йа шо дарувати 
@@ -106,7 +106,7 @@
 Коляда. :|</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="694" default-y="930" font-size="17" valign="top" xml:space="preserve">7. Даруймо йому 
+    <credit-words default-x="710" default-y="825" font-size="17" valign="top" xml:space="preserve">7. Даруймо йому 
 Йа три скрині злота,
 Коляда,
 Йа три скрині злота, 
@@ -127,6 +127,9 @@
   </credit>
   <credit page="1">
     <credit-words default-x="535" default-y="45" valign="top">85</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="878" default-y="1198" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -582,6 +585,11 @@
     </measure>
     <!--=======================================================-->
     <measure number="5" width="225">
+      <direction>
+        <direction-type>
+          <words default-x="10" default-y="12" valign="top">2</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>A</step>
@@ -663,6 +671,12 @@
     </measure>
     <!--=======================================================-->
     <measure number="6" width="225">
+      <direction>
+        <direction-type>
+          <words default-x="67" default-y="13" valign="top">3</words>
+        </direction-type>
+        <offset>2</offset>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>B</step>
@@ -751,6 +765,145 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="7" width="294">
+      <print new-system="yes">
+        <system-layout>
+          <system-distance>66</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words default-x="116" default-y="13" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="122">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="0">up</stem>
+        <notations>
+          <slur bezier-x="24" bezier-y="-15" default-x="6" default-y="-45" number="1" placement="below" type="start"/>
+        </notations>
+      </note>
+      <note default-x="204">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+        <notations>
+          <slur bezier-x="-20" bezier-y="-21" default-x="6" default-y="-35" number="1" type="stop"/>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="8" width="356">
+      <direction>
+        <direction-type>
+          <words default-x="11" default-y="12" valign="top">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <lyric default-y="-80" number="1" relative-x="-6">
+          <syllabic>single</syllabic>
+          <text>2.</text>
+          <elision> </elision>
+          <syllabic>single</syllabic>
+          <text>а</text>
+        </lyric>
+      </note>
+      <note default-x="97">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>begin</syllabic>
+          <text>ме</text>
+        </lyric>
+      </note>
+      <note default-x="181">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>end</syllabic>
+          <text>чем</text>
+        </lyric>
+      </note>
+      <note default-x="265">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <lyric default-y="-80" number="1">
+          <syllabic>single</syllabic>
+          <text>бри</text>
+          <elision> </elision>
+          <syllabic>single</syllabic>
+          <text>­</text>
+        </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="187">
+      <direction>
+        <direction-type>
+          <words default-x="8" default-y="17" valign="top">3</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="5">up</stem>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

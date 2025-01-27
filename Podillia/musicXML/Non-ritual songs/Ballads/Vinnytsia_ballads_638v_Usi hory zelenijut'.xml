@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,13 +56,10 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="360" default-y="1260" font-size="19" valign="top">638. Усі гори зеленіють (16-БР-02)</credit-words>
+    <credit-words default-x="368" default-y="1119" font-size="19" valign="top">638. Усі гори зеленіють (16-БР-02)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="479" default-y="1050" valign="top">60 Повільно</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="524" default-y="46" valign="top">398</credit-words>
+    <credit-words default-x="357" default-y="1056" valign="top">60 Повільно</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="124" default-y="826" font-size="17" valign="top" xml:space="preserve">1. Усі гори зеленіють, (2)
@@ -163,14 +160,16 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="14" relative-x="-26">quarter note equals</words>
-        </direction-type>
-      </direction>
       <direction placement="below">
         <direction-type>
           <words default-y="-21" relative-x="-222">Вар.</words>
+        </direction-type>
+      </direction>
+      <direction directive="yes" placement="above" system="only-top">
+        <direction-type>
+          <symbol default-y="21" font-family="Finale Maestro" font-size="18">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="166">

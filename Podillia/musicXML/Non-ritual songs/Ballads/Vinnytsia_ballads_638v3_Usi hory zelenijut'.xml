@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-08-30</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -59,7 +59,7 @@
     <credit-words default-x="360" default-y="1260" font-size="19" valign="top">638. Усі гори зеленіють (16-БР-02)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="459" default-y="1186" valign="top">70 Помірно</credit-words>
+    <credit-words default-x="338" default-y="1187" valign="top">70 Помірно</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="524" default-y="46" valign="top">398</credit-words>
@@ -163,14 +163,16 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="16" relative-x="-47">quarter note equals</words>
-        </direction-type>
-      </direction>
       <direction placement="below">
         <direction-type>
           <words default-y="-23" relative-x="-210">Вар. 3</words>
+        </direction-type>
+      </direction>
+      <direction directive="yes" placement="above" system="only-top">
+        <direction-type>
+          <symbol default-y="14" font-family="Finale Maestro" font-size="18">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="155">

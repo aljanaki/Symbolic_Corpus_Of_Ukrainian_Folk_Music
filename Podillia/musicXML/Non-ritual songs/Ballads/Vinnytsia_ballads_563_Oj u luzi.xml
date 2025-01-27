@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-02</encoding-date>
+      <encoding-date>2025-01-24</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -115,6 +115,9 @@
   <credit page="1">
     <credit-words default-x="521" default-y="45" valign="top">343</credit-words>
   </credit>
+  <credit page="1">
+    <credit-words default-x="539" default-y="1211" valign="top">1</credit-words>
+  </credit>
   <part-list>
     <score-part id="P1">
       <part-name print-object="no">MusicXML Part</part-name>
@@ -174,9 +177,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="16" relative-x="-143">quarter note equals</words>
+          <symbol default-y="15" font-family="Finale Maestro" font-size="18" relative-x="15">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="118">
@@ -611,6 +616,11 @@
       <direction placement="above">
         <direction-type>
           <words default-y="18">1</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words default-x="40" default-y="3" valign="top">1</words>
         </direction-type>
       </direction>
       <note default-x="45">
