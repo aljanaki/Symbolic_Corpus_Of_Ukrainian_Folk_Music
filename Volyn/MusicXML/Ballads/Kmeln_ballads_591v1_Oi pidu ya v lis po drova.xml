@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-01</encoding-date>
+      <encoding-date>2025-01-24</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -81,9 +81,6 @@
   </credit>
   <credit page="1">
     <credit-words default-x="336" default-y="1091" valign="top">96 Помірно</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="526" default-y="46" valign="top">416</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="594" default-y="864" font-size="14" valign="top" xml:space="preserve">5. Ой зірву я з ружі квітку
@@ -171,14 +168,16 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
-        <direction-type>
-          <words default-y="15" relative-x="-142">quarter note equals</words>
-        </direction-type>
-      </direction>
       <direction placement="below">
         <direction-type>
           <words default-y="-30" relative-x="-201">Вар. 1</words>
+        </direction-type>
+      </direction>
+      <direction directive="yes" placement="above" system="only-top">
+        <direction-type>
+          <symbol default-y="13" font-family="Finale Maestro" font-size="18" relative-x="16">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="138">
@@ -471,6 +470,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="start"/>
+        </notations>
         <lyric default-y="-71" number="1">
           <syllabic>begin</syllabic>
           <text>ме</text>
@@ -486,6 +488,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-55">down</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="stop"/>
+        </notations>
         <lyric default-y="-71" number="1">
           <syllabic>end</syllabic>
           <text>не</text>

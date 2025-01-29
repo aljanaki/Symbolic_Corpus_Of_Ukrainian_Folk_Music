@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-01</encoding-date>
+      <encoding-date>2024-08-15</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -263,6 +263,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="start"/>
+        </notations>
         <lyric default-y="-67" number="1">
           <syllabic>middle</syllabic>
           <text>чень</text>
@@ -277,6 +280,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="5">up</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="stop"/>
+        </notations>
         <lyric default-y="-67" number="1">
           <syllabic>end</syllabic>
           <text>ку,/</text>
@@ -494,6 +500,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="-45">down</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="start"/>
+        </notations>
         <lyric default-y="-67" number="1">
           <syllabic>single</syllabic>
           <text>я/</text>
@@ -517,6 +526,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="10">up</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" type="stop"/>
+        </notations>
         <lyric default-y="-67" number="1">
           <syllabic>single</syllabic>
           <text>в</text>

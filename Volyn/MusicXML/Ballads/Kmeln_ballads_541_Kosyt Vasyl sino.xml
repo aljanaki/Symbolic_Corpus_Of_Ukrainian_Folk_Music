@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-10-01</encoding-date>
+      <encoding-date>2024-08-14</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -748,6 +748,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="0">up</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" relative-x="70" relative-y="-11" type="start"/>
+        </notations>
         <lyric default-y="-72" number="1">
           <syllabic>middle</syllabic>
           <text>но</text>
@@ -762,6 +765,9 @@
         <voice>1</voice>
         <type>half</type>
         <stem default-y="13.5">up</stem>
+        <notations>
+          <glissando line-type="wavy" number="1" relative-x="64" relative-y="-11" type="stop"/>
+        </notations>
         <lyric default-y="-72" number="1">
           <syllabic>end</syllabic>
           <text>сить.</text>

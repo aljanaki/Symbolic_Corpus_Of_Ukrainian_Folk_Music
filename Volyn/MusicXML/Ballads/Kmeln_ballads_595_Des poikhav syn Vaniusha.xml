@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-08-14</encoding-date>
+      <encoding-date>2025-01-24</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -59,7 +59,7 @@
     <credit-words default-x="300" default-y="1234" font-size="20" valign="top">595. Десь поїхав син Ванюша (14-БР-01)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="390" default-y="1180" font-size="11" valign="top">96 </credit-words>
+    <credit-words default-x="369" default-y="1181" font-size="11" valign="top">96 </credit-words>
     <credit-words font-size="12">Помірно</credit-words>
   </credit>
   <credit page="1">
@@ -110,7 +110,7 @@
     <credit-words default-x="119" default-y="82" valign="top">* Другу половину кожної строфи співають двічі. (Л. Є.)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="525" default-y="45" valign="top">419</credit-words>
+    <credit-words default-x="654" default-y="1143" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -171,9 +171,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="32" relative-x="-109">quarter note equals</words>
+          <symbol default-y="28" font-family="Finale Maestro" font-size="18" relative-x="30">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="154">
@@ -494,6 +496,11 @@
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward" winged="none"/>
       </barline>
+      <direction>
+        <direction-type>
+          <words default-x="26" default-y="12" valign="top">2</words>
+        </direction-type>
+      </direction>
       <note default-x="30">
         <pitch>
           <step>G</step>
@@ -745,7 +752,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="7" width="482">
+    <measure number="7" width="361">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -769,7 +776,7 @@
           <text>на</text>
         </lyric>
       </note>
-      <note default-x="212">
+      <note default-x="182">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -784,7 +791,7 @@
           <text>ха</text>
         </lyric>
       </note>
-      <note default-x="302">
+      <note default-x="241">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -795,14 +802,14 @@
         <type>quarter</type>
         <stem default-y="0">up</stem>
         <notations>
-          <slur bezier-x="19" bezier-y="20" default-x="18" default-y="-7" number="1" orientation="over" type="start"/>
+          <slur bezier-x="11" bezier-y="15" default-x="18" default-y="-7" number="1" orientation="over" type="start"/>
         </notations>
         <lyric default-y="-80" number="1" relative-x="5">
           <syllabic>middle</syllabic>
           <text>зяй</text>
         </lyric>
       </note>
-      <note default-x="391">
+      <note default-x="301">
         <pitch>
           <step>A</step>
           <alter>1</alter>
@@ -813,7 +820,7 @@
         <type>quarter</type>
         <stem default-y="10">up</stem>
         <notations>
-          <slur bezier-x="-23" bezier-y="15" default-x="7" default-y="3" number="1" type="stop"/>
+          <slur bezier-x="-16" bezier-y="10" default-x="7" default-y="3" number="1" type="stop"/>
         </notations>
       </note>
       <backup>
@@ -830,7 +837,7 @@
         <type>quarter</type>
         <stem default-y="-58">down</stem>
       </note>
-      <note default-x="212">
+      <note default-x="182">
         <pitch>
           <step>E</step>
           <alter>1</alter>
@@ -842,7 +849,7 @@
         <accidental>sharp</accidental>
         <stem default-y="-68">down</stem>
       </note>
-      <note default-x="302">
+      <note default-x="241">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -855,7 +862,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="8" width="357">
+    <measure number="8" width="248">
       <note default-x="13">
         <pitch>
           <step>G</step>
@@ -871,7 +878,7 @@
           <text>стві</text>
         </lyric>
       </note>
-      <note default-x="103">
+      <note default-x="73">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -886,7 +893,7 @@
           <text>са</text>
         </lyric>
       </note>
-      <note default-x="193">
+      <note default-x="133">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -914,7 +921,7 @@
         <type>quarter</type>
         <stem default-y="-68">down</stem>
       </note>
-      <note default-x="103">
+      <note default-x="73">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -924,7 +931,7 @@
         <type>quarter</type>
         <stem default-y="-68">down</stem>
       </note>
-      <note default-x="193">
+      <note default-x="133">
         <pitch>
           <step>D</step>
           <alter>1</alter>
@@ -938,6 +945,87 @@
       <barline location="right">
         <bar-style>light-heavy</bar-style>
         <repeat direction="backward" winged="none"/>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="9" width="86">
+      <direction>
+        <direction-type>
+          <words default-x="15" default-y="4" valign="top">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="13">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="-10">up</stem>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="10" width="144">
+      <direction>
+        <direction-type>
+          <words default-x="8" default-y="8" valign="top">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="15">up</stem>
+      </note>
+      <note default-x="95">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="20">up</stem>
+      </note>
+      <backup>
+        <duration>4</duration>
+      </backup>
+      <note default-x="12">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-58">down</stem>
+      </note>
+      <note default-x="95">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <stem default-y="-60">down</stem>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
       </barline>
     </measure>
   </part>

@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-08-14</encoding-date>
+      <encoding-date>2025-01-23</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -63,7 +63,13 @@
     <credit-words font-size="12">Помірно</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="180" default-y="1003" font-size="17" valign="top" xml:space="preserve">1. Ой туман яром,
+    <credit-words default-x="598" default-y="1219" font-size="10" valign="top">1</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="793" default-y="1207" font-size="10" valign="top">2</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="158" default-y="918" font-size="17" valign="top" xml:space="preserve">1. Ой туман яром,
 Та й туман яром,
 Туман долиною,
 Та й туман долиною.
@@ -82,19 +88,12 @@
 5. Ой вона ж теї
 Та й циганочки
 Покірно просила,
-Та й покірно просила:
-6. – Ти циганочко-
-Подоляночко,</credit-words>
+Та й покірно просила:</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="118" default-y="268" valign="top" xml:space="preserve">Зап. 1987 р. Гримич М. В. у с. Мокіївці Шепетівського р-ну Хмельницької обл. від Уланової Г. С. – 
-ІМФЕ, ф. 14-5, од. зб. 509, арк. 36. Мел. ред. Єфремова Л. О.</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="531" default-y="46" valign="top">309</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="596" default-y="1014" font-size="17" valign="top" xml:space="preserve">Вчини мою волю,
+    <credit-words default-x="585" default-y="923" font-size="17" valign="top" xml:space="preserve">6. – Ти циганочко-
+Подоляночко,
+Вчини мою волю,
 Та й вчини мою волю: 
 7. Ой зчаруй вже того
 Та й козаченька,
@@ -117,12 +116,16 @@
 Та й з його сміється,
 Та й з його сміється.</credit-words>
   </credit>
+  <credit page="1">
+    <credit-words default-x="133" default-y="118" valign="top" xml:space="preserve">Зап. 1987 р. Гримич М. В. у с. Мокіївці Шепетівського р-ну Хмельницької обл. від Уланової Г. С. – 
+ІМФЕ, ф. 14-5, од. зб. 509, арк. 36. Мел. ред. Єфремова Л. О.</credit-words>
+  </credit>
   <part-list>
     <score-part id="P1">
       <part-name print-object="no">MusicXML Part</part-name>
       <group>score</group>
       <score-instrument id="P1-I1">
-        <instrument-name>Čķńņšóģåķņ 1</instrument-name>
+        <instrument-name>Èíñòðóìåíò 1</instrument-name>
       </score-instrument>
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
@@ -134,7 +137,7 @@
   </part-list>
   <!--=========================================================-->
   <part id="P1">
-    <measure number="1" width="455">
+    <measure number="1" width="453">
       <print>
         <page-layout>
           <page-height>1320</page-height>
@@ -171,14 +174,14 @@
           <clef-octave-change>-1</clef-octave-change>
         </clef>
       </attributes>
-      <sound tempo="60">
+      <sound tempo="96">
         <swing>
           <straight/>
         </swing>
       </sound>
       <direction placement="above">
         <direction-type>
-          <words default-y="13" relative-x="-123">quarter note equals</words>
+          <words default-y="18" relative-x="-128">quarter note equals</words>
         </direction-type>
       </direction>
       <note default-x="138">
@@ -232,7 +235,7 @@
           <slur bezier-x="12" bezier-y="15" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
         </notations>
       </note>
-      <note default-x="264">
+      <note default-x="265">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -262,7 +265,7 @@
         <stem default-y="-50">down</stem>
         <beam number="1">end</beam>
       </note>
-      <note default-x="325">
+      <note default-x="326">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -280,7 +283,7 @@
           <text>я</text>
         </lyric>
       </note>
-      <note default-x="356">
+      <note default-x="357">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -295,7 +298,7 @@
           <slur bezier-x="-9" bezier-y="10" default-x="6" default-y="-7" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="393">
+      <note default-x="391">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -311,10 +314,10 @@
         </notations>
         <lyric default-y="-69" number="1">
           <syllabic>end</syllabic>
-          <text>ром,/</text>
+          <text>ром,</text>
         </lyric>
       </note>
-      <note default-x="423">
+      <note default-x="422">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -331,7 +334,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="320">
+    <measure number="2" width="322">
       <attributes>
         <time>
           <beats>4</beats>
@@ -384,7 +387,7 @@
           <text>ман</text>
         </lyric>
       </note>
-      <note default-x="180">
+      <note default-x="182">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -402,7 +405,7 @@
           <text>я</text>
         </lyric>
       </note>
-      <note default-x="233">
+      <note default-x="235">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -416,7 +419,7 @@
         </notations>
         <lyric default-y="-69" number="1">
           <syllabic>end</syllabic>
-          <text>ром,/</text>
+          <text>ром,</text>
         </lyric>
       </note>
     </measure>
@@ -555,7 +558,7 @@
         </notations>
         <lyric default-y="-69" number="1">
           <syllabic>end</syllabic>
-          <text>ю./</text>
+          <text>ю.</text>
         </lyric>
       </note>
     </measure>
@@ -705,6 +708,77 @@
       </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="239">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>430</right-margin>
+          </system-margins>
+          <system-distance>45</system-distance>
+        </system-layout>
+      </print>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="20" font-size="10">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="106">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="171">
+      <direction placement="above">
+        <direction-type>
+          <words default-y="20" font-size="10">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="23" bezier-y="14" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
+        </notations>
+      </note>
+      <note default-x="87">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-60">down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-18" bezier-y="20" default-x="6" default-y="-15" number="1" type="stop"/>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
       </barline>
     </measure>
   </part>
