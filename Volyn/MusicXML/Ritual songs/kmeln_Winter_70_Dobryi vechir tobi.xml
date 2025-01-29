@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,16 +56,16 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="121" default-y="81" valign="top">* Цей приспів виконують за кожною строфою пісні. (Л. Є.)</credit-words>
+    <credit-words default-x="117" default-y="586" valign="top">* Цей приспів виконують за кожною строфою пісні. (Л. Є.)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="304" default-y="623" font-size="19" valign="top">70. Добрий вечір тобі (ОК-КЩ-01б)</credit-words>
+    <credit-words default-x="324" default-y="1270" font-size="19" valign="top">70. Добрий вечір тобі (ОК-КЩ-01б)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="343" default-y="582" valign="top">90 Помірно</credit-words>
+    <credit-words default-x="314" default-y="1225" valign="top">90 Помірно</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="173" default-y="380" font-size="17" valign="top" xml:space="preserve">1. Добрий вечір тобі,
+    <credit-words default-x="141" default-y="976" font-size="17" valign="top" xml:space="preserve">1. Добрий вечір тобі,
 Пане господару.
 Щедрий вечір!*
 2. Застеляйте столи
@@ -74,20 +74,17 @@
 Три празники в гості.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="121" default-y="142" valign="top" xml:space="preserve">Зап. у липні 2004 р. Панчук О. В. у с. Онишківці Шепетівського р-ну Хмельницької обл. від Скри-
+    <credit-words default-x="110" default-y="693" valign="top" xml:space="preserve">Зап. у липні 2004 р. Панчук О. В. у с. Онишківці Шепетівського р-ну Хмельницької обл. від Скри-
 нник Євдокії Сидорівни, 1927 р. н. – Касета № 5, ст. А, № 29. Нотація та ред. тексту. Єфремової 
 Л. О., № 112. Щось не так я заспівала. (Прим. вик.)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="603" default-y="381" font-size="17" valign="top" xml:space="preserve">4. А що перший празник –
+    <credit-words default-x="572" default-y="972" font-size="17" valign="top" xml:space="preserve">4. А що перший празник –
 Рожество Христове,
 5. А що другий празник –
 Святого Василя.
 6. А що третій празнік –
 Святе Водохреща.</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="533" default-y="45" valign="top">78</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -120,10 +117,9 @@
         </page-layout>
         <system-layout>
           <system-margins>
-            <left-margin>58</left-margin>
-            <right-margin>1</right-margin>
+            <left-margin>60</left-margin>
+            <right-margin>0</right-margin>
           </system-margins>
-          <top-system-distance>715</top-system-distance>
         </system-layout>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -148,9 +144,16 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
-          <words default-y="21" relative-x="-116">quarter note equals</words>
+          <words default-y="-78">1</words>
+        </direction-type>
+      </direction>
+      <direction directive="yes" placement="above" system="only-top">
+        <direction-type>
+          <symbol default-y="15" font-family="Finale Maestro" font-size="18" relative-x="4">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="120">
@@ -170,7 +173,7 @@
           <text>Доб</text>
         </lyric>
       </note>
-      <note default-x="177">
+      <note default-x="178">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -184,7 +187,7 @@
           <text>рий</text>
         </lyric>
       </note>
-      <note default-x="224">
+      <note default-x="225">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -261,7 +264,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="2" width="314">
+    <measure number="2" width="313">
       <note default-x="13">
         <pitch>
           <step>D</step>
@@ -319,7 +322,7 @@
           <text>по</text>
         </lyric>
       </note>
-      <note default-x="171">
+      <note default-x="170">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -368,10 +371,10 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="3" width="840">
+    <measure number="3" width="496">
       <print new-system="yes">
         <system-layout>
-          <system-distance>54</system-distance>
+          <system-distance>58</system-distance>
         </system-layout>
       </print>
       <note default-x="88">
@@ -386,14 +389,14 @@
         <dot/>
         <stem default-y="-50">down</stem>
         <notations>
-          <slur bezier-x="51" bezier-y="29" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
+          <slur bezier-x="28" bezier-y="27" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
         </notations>
         <lyric default-y="-70" number="2">
           <syllabic>begin</syllabic>
           <text>Щед</text>
         </lyric>
       </note>
-      <note default-x="315">
+      <note default-x="208">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -403,10 +406,10 @@
         <type>16th</type>
         <stem default-y="10">up</stem>
         <notations>
-          <slur bezier-x="-52" bezier-y="25" default-x="7" default-y="3" number="1" type="stop"/>
+          <slur bezier-x="-32" bezier-y="23" default-x="7" default-y="3" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="380">
+      <note default-x="246">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -420,7 +423,7 @@
           <text>рий</text>
         </lyric>
       </note>
-      <note default-x="446">
+      <note default-x="284">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -432,14 +435,14 @@
         <stem default-y="-50">down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <slur bezier-x="28" bezier-y="22" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
+          <slur bezier-x="16" bezier-y="13" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
         </notations>
         <lyric default-y="-70" number="2" relative-x="3">
           <syllabic>begin</syllabic>
           <text>ве</text>
         </lyric>
       </note>
-      <note default-x="552">
+      <note default-x="339">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -450,10 +453,97 @@
         <stem default-y="-55">down</stem>
         <beam number="1">end</beam>
         <notations>
-          <slur bezier-x="-27" bezier-y="23" default-x="6" default-y="-7" number="1" type="stop"/>
+          <slur bezier-x="-15" bezier-y="14" default-x="6" default-y="-7" number="1" type="stop"/>
         </notations>
       </note>
-      <note default-x="658">
+      <note default-x="395">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+        <lyric default-y="-70" number="2">
+          <syllabic>end</syllabic>
+          <text>чір!</text>
+        </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="4" width="344">
+      <direction placement="above">
+        <direction-type>
+          <words default-y="17">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="13">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="-55">down</stem>
+        <lyric default-y="-70" number="2">
+          <syllabic>begin</syllabic>
+          <text>Щед</text>
+        </lyric>
+      </note>
+      <note default-x="114">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-45">down</stem>
+        <lyric default-y="-70" number="2">
+          <syllabic>end</syllabic>
+          <text>рий</text>
+        </lyric>
+      </note>
+      <note default-x="162">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-50">down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur bezier-x="14" bezier-y="12" default-x="6" default-y="-5" number="1" placement="above" type="start"/>
+        </notations>
+        <lyric default-y="-70" number="2" relative-x="3">
+          <syllabic>begin</syllabic>
+          <text>ве</text>
+        </lyric>
+      </note>
+      <note default-x="209">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <slur bezier-x="-13" bezier-y="13" default-x="6" default-y="-7" number="1" type="stop"/>
+        </notations>
+      </note>
+      <note default-x="257">
         <pitch>
           <step>A</step>
           <octave>3</octave>

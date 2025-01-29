@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-03</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,7 +56,7 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="121" default-y="328" valign="top" xml:space="preserve">Зап. 2003 р. Панчук О. В. у с. Гриців Шепетівського р-ну Хмельницької обл. від Кліпацької Ганни 
+    <credit-words default-x="119" default-y="301" valign="top" xml:space="preserve">Зап. 2003 р. Панчук О. В. у с. Гриців Шепетівського р-ну Хмельницької обл. від Кліпацької Ганни 
 Оксентівни, 1933 р. н. – Касета № 3, ст. А, № 2. Розшифр. Єфремова Л. О. № 36.</credit-words>
   </credit>
   <credit page="1">
@@ -66,7 +66,7 @@
     <credit-words default-x="338" default-y="1215" valign="top">82 Поважно</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="119" default-y="922" font-size="17" valign="top" xml:space="preserve">1. Христос Спаситель
+    <credit-words default-x="116" default-y="890" font-size="17" valign="top" xml:space="preserve">1. Христос Спаситель
 В полночь родился,
 В вертепе темном
 Свет появился.
@@ -86,7 +86,7 @@
 Христу молились</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="424" default-y="921" font-size="17" valign="top" xml:space="preserve">И светлой вере
+    <credit-words default-x="424" default-y="890" font-size="17" valign="top" xml:space="preserve">И светлой вере
 Тут озарились.
 6. Главы склоняли
 У яслях Царя,
@@ -106,7 +106,7 @@
 Приют находят.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="673" default-y="921" font-size="17" valign="top" xml:space="preserve">10. Среди языков,
+    <credit-words default-x="675" default-y="886" font-size="17" valign="top" xml:space="preserve">10. Среди языков,
 В стране кумиров,
 (Нерозб.)
 Спаситель мира.
@@ -124,7 +124,7 @@
 Свет просвещенья.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="529" default-y="45" valign="top">114</credit-words>
+    <credit-words default-x="632" default-y="1192" valign="top">1</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -185,9 +185,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="26" relative-x="-103">quarter note equals</words>
+          <symbol default-y="31" font-family="Finale Maestro" font-size="18" relative-x="34">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="110">
@@ -426,7 +428,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem default-y="5">up</stem>
-        <lyric default-y="-69" number="1">
+        <lyric default-y="-68" number="1">
           <syllabic>single</syllabic>
           <text>в</text>
           <elision> </elision>
@@ -567,6 +569,11 @@
     </measure>
     <!--=======================================================-->
     <measure number="9" width="90">
+      <direction placement="above">
+        <direction-type>
+          <words default-y="12">2</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>A</step>
@@ -602,6 +609,137 @@
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="11" width="391">
+      <print new-system="yes">
+        <system-layout>
+          <system-distance>50</system-distance>
+        </system-layout>
+      </print>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="6" relative-x="-7">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="77">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-62" number="1" relative-x="11">
+          <syllabic>single</syllabic>
+          <text>5.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>Хрис</text>
+        </lyric>
+      </note>
+      <note default-x="181">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-62" number="1">
+          <syllabic>end</syllabic>
+          <text>ту</text>
+        </lyric>
+      </note>
+      <note default-x="286">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-62" number="1">
+          <syllabic>begin</syllabic>
+          <text>мо</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--=======================================================-->
+    <measure number="12" width="245">
+      <note default-x="13">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem default-y="10">up</stem>
+        <lyric default-y="-62" number="1">
+          <syllabic>middle</syllabic>
+          <text>ли</text>
+        </lyric>
+      </note>
+      <note default-x="152">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+        <lyric default-y="-62" number="1">
+          <syllabic>end</syllabic>
+          <text>лись</text>
+        </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="13" width="206">
+      <direction placement="above">
+        <direction-type>
+          <words default-y="8">2</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem default-y="10">up</stem>
+        <notations>
+          <slur bezier-x="30" bezier-y="-27" default-x="6" default-y="-35" number="1" placement="below" type="start"/>
+        </notations>
+      </note>
+      <note default-x="137">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="5">up</stem>
+        <notations>
+          <slur bezier-x="-33" bezier-y="-23" default-x="6" default-y="-43" number="1" type="stop"/>
+        </notations>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,11 +56,11 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="115" default-y="715" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
+    <credit-words default-x="124" default-y="681" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
 Ганни Гнатівни, 1926 р. н. – Касета № 4, ст. B, № 1. Нотація та ред. тексту Єфремової Л. О., № 53.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="120" default-y="1129" font-size="17" valign="top" xml:space="preserve">1. Ой расна-красна 
+    <credit-words default-x="114" default-y="1084" font-size="17" valign="top" xml:space="preserve">1. Ой расна-красна 
 В лузі калина.
 Ой дай Боже.*
 2. А ще найкраща 
@@ -76,14 +76,14 @@
     <credit-words default-x="332" default-y="1260" font-size="19" valign="top">93. Ой расна-красна (ОК-КЩ-10) </credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="367" default-y="1224" valign="top">96 Помірно</credit-words>
+    <credit-words default-x="332" default-y="1220" valign="top">96 Помірно</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="120" default-y="103" valign="top" xml:space="preserve">* Цей приспів виконують за кожною строфою пісні. (Л. Є.)
 </credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="693" default-y="1125" font-size="17" valign="top" xml:space="preserve">11. Гордуй, не гордуй, 
+    <credit-words default-x="695" default-y="1080" font-size="17" valign="top" xml:space="preserve">11. Гордуй, не гордуй, 
 Нам гроші готуй.
 12. А нам не много, – 
 З пів-золотого.
@@ -94,7 +94,7 @@
 Добрив’чір!</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="445" default-y="1127" font-size="17" valign="top" xml:space="preserve">6. Там пани сидят, 
+    <credit-words default-x="447" default-y="1085" font-size="17" valign="top" xml:space="preserve">6. Там пани сидят, 
 Радоньку радят
 7. Та й питаються: 
 – Чия ж це дочка?
@@ -167,9 +167,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="16" relative-x="-127">quarter note equals</words>
+          <symbol default-y="8" font-family="Finale Maestro" font-size="18" relative-x="-7">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="154">

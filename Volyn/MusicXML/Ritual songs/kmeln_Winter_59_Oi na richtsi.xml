@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-02</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,7 +56,7 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="118" default-y="83" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
+    <credit-words default-x="112" default-y="67" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
 Ганни Гнатівни, 1926 р. н. – Касета № 4, ст. B, № 4. Нотація та ред. тексту Єфремової Л. О., № 56.</credit-words>
   </credit>
   <credit page="1">
@@ -98,9 +98,6 @@
 Добрим людям 
 На цей вечір!
 Добрив’чір!</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="531" default-y="46" valign="top">70</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -161,9 +158,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="18" relative-x="-121">quarter note equals</words>
+          <symbol default-y="15" font-family="Finale Maestro" font-size="18" relative-x="25">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="83">

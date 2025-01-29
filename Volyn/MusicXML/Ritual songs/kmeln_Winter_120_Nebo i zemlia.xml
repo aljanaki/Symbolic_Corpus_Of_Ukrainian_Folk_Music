@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-03</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -29,11 +29,11 @@
     </page-layout>
     <system-layout>
       <system-margins>
-        <left-margin>0</left-margin>
-        <right-margin>0</right-margin>
+        <left-margin>1</left-margin>
+        <right-margin>2</right-margin>
       </system-margins>
-      <system-distance>110</system-distance>
-      <top-system-distance>67</top-system-distance>
+      <system-distance>50</system-distance>
+      <top-system-distance>33</top-system-distance>
     </system-layout>
     <appearance>
       <line-width type="stem">0.7682</line-width>
@@ -59,20 +59,29 @@
     <credit-words default-x="125" default-y="81" valign="top">* Цей приспів виконують за кожною строфою пісні. (Л. Є.)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="384" default-y="1267" font-size="19" valign="top">120. [Небо і земля] (ОК-ХК-18)</credit-words>
+    <credit-words default-x="364" default-y="1269" font-size="19" valign="top">120. [Небо і земля] (ОК-ХК-18)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="293" default-y="1228" valign="top">96 Помірно</credit-words>
+    <credit-words default-x="314" default-y="1218" valign="top">96 Помірно</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="113" default-y="829" font-size="17" valign="top" xml:space="preserve">1. [Небо і земля (2)
+    <credit-words default-x="127" default-y="748" font-size="17" valign="top" xml:space="preserve">1. [Небо і земля (2)
 Нині торжествують,]
 Ангели, люди (2)
 Весело празднують.
 Приспів:
 Христос родився,
-Богу воплотився,
-Ангели  співають,
+Богу воплотився,</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="694" default-y="746" font-size="17" valign="top" xml:space="preserve">2. Во Віфліємі (2)
+Весела новина:
+Чистая Діва (2)
+Породила Сина!
+Приспів.</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="418" default-y="747" font-size="17" valign="top" xml:space="preserve">Ангели  співають,
 Цариє вітають,
 Поклін оддають,
 Пастирі грають:
@@ -80,17 +89,7 @@
 Повідають.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="529" default-y="44" valign="top">112</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="493" default-y="814" font-size="17" valign="top" xml:space="preserve">2. Во Віфліємі (2)
-Весела новина:
-Чистая Діва (2)
-Породила Сина!
-Приспів.</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="114" default-y="393" valign="top" xml:space="preserve">Зап. 2003 р. Панчук О. В. у с. Гриців Шепетівського р-ну Хмельницької обл. від Кліпацької Ганни 
+    <credit-words default-x="143" default-y="466" valign="top" xml:space="preserve">Зап. 2003 р. Панчук О. В. у с. Гриців Шепетівського р-ну Хмельницької обл. від Кліпацької Ганни 
 Оксентівни, 1933 р. н. – Касета № 3, ст. А, № 3. Розшифр. Єфремова Л. О. № 37.</credit-words>
   </credit>
   <part-list>
@@ -124,10 +123,10 @@
         </page-layout>
         <system-layout>
           <system-margins>
-            <left-margin>55</left-margin>
-            <right-margin>5</right-margin>
+            <left-margin>60</left-margin>
+            <right-margin>0</right-margin>
           </system-margins>
-          <top-system-distance>64</top-system-distance>
+          <top-system-distance>73</top-system-distance>
         </system-layout>
         <measure-numbering>none</measure-numbering>
       </print>
@@ -152,9 +151,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="19" relative-x="-130">quarter note equals</words>
+          <symbol default-y="15" font-family="Finale Maestro" font-size="18" relative-x="46">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="83">
@@ -423,7 +424,11 @@
     <measure number="5" width="275">
       <print new-system="yes">
         <system-layout>
-          <system-distance>50</system-distance>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>68</system-distance>
         </system-layout>
       </print>
       <attributes>
@@ -694,7 +699,11 @@
     <measure number="9" width="250">
       <print new-system="yes">
         <system-layout>
-          <system-distance>50</system-distance>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>64</system-distance>
         </system-layout>
       </print>
       <attributes>
@@ -705,7 +714,7 @@
       </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-y="18" relative-x="-83">Приспів</words>
+          <words default-y="9" relative-x="-5">Приспів</words>
         </direction-type>
       </direction>
       <note default-x="83">
@@ -1045,7 +1054,7 @@
     <measure number="13" width="262">
       <print new-system="yes">
         <system-layout>
-          <system-distance>51</system-distance>
+          <system-distance>77</system-distance>
         </system-layout>
       </print>
       <attributes>
@@ -1054,7 +1063,7 @@
           <beat-type>8</beat-type>
         </time>
       </attributes>
-      <note default-x="82">
+      <note default-x="83">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1155,7 +1164,7 @@
           <text>ти</text>
         </lyric>
       </note>
-      <note default-x="75">
+      <note default-x="74">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -1169,7 +1178,7 @@
           <text>рі</text>
         </lyric>
       </note>
-      <note default-x="110">
+      <note default-x="109">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1183,7 +1192,7 @@
           <text>гра</text>
         </lyric>
       </note>
-      <note default-x="140">
+      <note default-x="139">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1197,7 +1206,7 @@
           <text>ють:</text>
         </lyric>
       </note>
-      <note default-x="169">
+      <note default-x="168">
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
@@ -1254,7 +1263,7 @@
           <text>чу</text>
         </lyric>
       </note>
-      <note default-x="157">
+      <note default-x="156">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -1271,7 +1280,7 @@
           <text>–</text>
         </lyric>
       </note>
-      <note default-x="202">
+      <note default-x="201">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -1285,7 +1294,7 @@
           <text>по</text>
         </lyric>
       </note>
-      <note default-x="231">
+      <note default-x="230">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -1301,7 +1310,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="16" width="130">
+    <measure number="16" width="129">
       <note default-x="13">
         <pitch>
           <step>B</step>

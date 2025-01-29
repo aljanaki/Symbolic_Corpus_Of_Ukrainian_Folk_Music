@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-03</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,12 +56,12 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="123" default-y="596" valign="top" xml:space="preserve">Зап. у серпні 2004 р. Панчук О. В. у с. Велика Шкарівка Шепетівського р-ну Хмельницької обл. 
+    <credit-words default-x="125" default-y="563" valign="top" xml:space="preserve">Зап. у серпні 2004 р. Панчук О. В. у с. Велика Шкарівка Шепетівського р-ну Хмельницької обл. 
 від Волошенівської Ніни Семенівни, 1939 р. н. та Мельничук Марії Сергіївни, 1947 р. н. – Касета 
 № 5, ст. В, № 2. Розшифр. Єфремової Л. О., № 116.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="178" default-y="975" font-size="17" valign="top" xml:space="preserve">1. [Нова радість стала,
+    <credit-words default-x="165" default-y="937" font-size="17" valign="top" xml:space="preserve">1. [Нова радість стала,
 Яка не бувала:]
 Над вертепом звізда ясна
 На весь світ засіяла.*
@@ -73,7 +73,7 @@
 Перед тим Дитятком</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="603" default-y="975" font-size="17" valign="top" xml:space="preserve">На колінця припадають,
+    <credit-words default-x="603" default-y="934" font-size="17" valign="top" xml:space="preserve">На колінця припадають,
 Царя-Бога вихваляють.
 4. – Славім Тебе, Царю,
 Небесний владарю,
@@ -86,7 +86,7 @@
   </credit>
   <credit page="1">
     <credit-words default-x="120" default-y="102" valign="top" xml:space="preserve">* Другу половину кожної строфи співають двічі. (Л. Є.)
-</credit-words>
+** Мелодію перетактовано. (Л. Є.)</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="346" default-y="1260" font-size="19" valign="top">117. Нова радість стала (ОК-ХК-02)</credit-words>
@@ -99,9 +99,6 @@
   </credit>
   <credit page="1">
     <credit-words default-x="342" default-y="1220" valign="top">66 Повільно</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="529" default-y="48" valign="top">111</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -162,9 +159,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="35" relative-x="-118">quarter note equals</words>
+          <symbol default-y="35" font-family="Finale Maestro" font-size="18" relative-x="24">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="118">

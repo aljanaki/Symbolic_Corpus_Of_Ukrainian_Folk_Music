@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-05-03</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,11 +56,11 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="128" default-y="430" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
+    <credit-words default-x="115" default-y="445" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
 Ганни Гнатівни, 1926 р. н. – Касета № 4, ст. B, № 5. Нотація та ред. тексту Єфремової Л. О., № 57.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="181" default-y="1033" font-size="17" valign="top" xml:space="preserve">1. Ой у полі, в полі 
+    <credit-words default-x="168" default-y="996" font-size="17" valign="top" xml:space="preserve">1. Ой у полі, в полі 
 Віросла ялина.
 Там пречистая Марія 
 Породила Сина.*
@@ -87,7 +87,7 @@
     <credit-words default-x="118" default-y="81" valign="top">* Другу половину кожної строфи співають двічі. (Л. Є.)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="608" default-y="1030" font-size="17" valign="top" xml:space="preserve">5. Ой у полі, в полі 
+    <credit-words default-x="608" default-y="997" font-size="17" valign="top" xml:space="preserve">5. Ой у полі, в полі 
 Віросла ялина,
 Там пастушки стадо пасли, 
 Прийшла їм новіна. 
@@ -166,9 +166,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="18" relative-x="-122">quarter note equals</words>
+          <symbol default-y="13" font-family="Finale Maestro" font-size="18" relative-x="29">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="83">

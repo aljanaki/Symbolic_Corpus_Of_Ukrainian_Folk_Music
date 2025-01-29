@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>Finale v27.3 for Windows</software>
-      <encoding-date>2024-04-30</encoding-date>
+      <encoding-date>2025-01-26</encoding-date>
       <supports attribute="new-system" element="print" type="yes" value="yes"/>
       <supports attribute="new-page" element="print" type="yes" value="yes"/>
       <supports element="accidental" type="yes"/>
@@ -56,14 +56,14 @@
     <lyric-font font-family="Times New Roman" font-size="12"/>
   </defaults>
   <credit page="1">
-    <credit-words default-x="107" default-y="494" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
+    <credit-words default-x="115" default-y="641" valign="top" xml:space="preserve">Зап. 2003-2004 р. Панчук О. В. у с. Корпилівка Шепетівського р-ну Хмельницької обл. від Ільченко 
 Ганни Гнатівни, 1926 р. н. – Касета № 4, ст. B, № 3. Нотація та ред. тексту Єфремової Л. О., № 55.</credit-words>
   </credit>
   <credit page="1">
     <credit-words default-x="335" default-y="1260" font-size="19" valign="top">40. Щедрий щедрів (ОК-ЩК-01)</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="141" default-y="987" font-size="17" valign="top" xml:space="preserve">1. Щедрий щедрів, 
+    <credit-words default-x="140" default-y="967" font-size="17" valign="top" xml:space="preserve">1. Щедрий щедрів, 
 Щідрівниця, 
 Прилітає 
 Ластівниця.
@@ -73,10 +73,13 @@
 Пробужати:</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="335" default-y="1211" valign="top">110 Енергійно</credit-words>
+    <credit-words default-x="316" default-y="1212" valign="top">110 Енергійно</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="418" default-y="987" font-size="17" valign="top" xml:space="preserve">3. – Вставай, вставай, 
+    <credit-words default-x="309" default-y="1197" valign="top">1</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="419" default-y="969" font-size="17" valign="top" xml:space="preserve">3. – Вставай, вставай, 
 Господару,
 Довідайся 
 До товару, –
@@ -86,7 +89,7 @@
 Породились.</credit-words>
   </credit>
   <credit page="1">
-    <credit-words default-x="715" default-y="987" font-size="17" valign="top" xml:space="preserve">5. Рабі бичкі 
+    <credit-words default-x="720" default-y="968" font-size="17" valign="top" xml:space="preserve">5. Рабі бичкі 
 Ще й хороші,
 Будеш мати 
 За їх гроші.
@@ -94,9 +97,6 @@
 Щедрівниця,
 Прилітає 
 Ластівниця.</credit-words>
-  </credit>
-  <credit page="1">
-    <credit-words default-x="534" default-y="43" valign="top">59</credit-words>
   </credit>
   <part-list>
     <score-part id="P1">
@@ -157,9 +157,11 @@
           <straight/>
         </swing>
       </sound>
-      <direction placement="above">
+      <direction directive="yes" placement="above" system="only-top">
         <direction-type>
-          <words default-y="21" relative-x="-111">quarter note equals</words>
+          <symbol default-y="23" font-family="Finale Maestro" font-size="18" relative-x="25">metNoteQuarterUp</symbol>
+          <words font-family="Times New Roman" font-size="14" font-weight="bold"> </words>
+          <words font-size="14" font-weight="bold">= </words>
         </direction-type>
       </direction>
       <note default-x="109">
@@ -343,7 +345,7 @@
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="4" width="843">
+    <measure number="4" width="282">
       <print new-system="yes">
         <system-layout>
           <system-distance>64</system-distance>
@@ -363,7 +365,7 @@
           <text>лас</text>
         </lyric>
       </note>
-      <note default-x="221">
+      <note default-x="113">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -377,7 +379,7 @@
           <text>тів</text>
         </lyric>
       </note>
-      <note default-x="365">
+      <note default-x="151">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -391,7 +393,7 @@
           <text>ни</text>
         </lyric>
       </note>
-      <note default-x="599">
+      <note default-x="211">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -404,6 +406,158 @@
           <syllabic>end</syllabic>
           <text>ця.</text>
         </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="5" width="277">
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-7" relative-x="-7">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="15">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-15">up</stem>
+        <lyric default-y="-73" number="1" relative-x="11">
+          <syllabic>single</syllabic>
+          <text>2­5.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>Ста</text>
+        </lyric>
+      </note>
+      <note default-x="79">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="-15">up</stem>
+        <lyric default-y="-73" number="1">
+          <syllabic>end</syllabic>
+          <text>ла</text>
+        </lyric>
+      </note>
+      <note default-x="124">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-73" number="1">
+          <syllabic>begin</syllabic>
+          <text>во</text>
+        </lyric>
+      </note>
+      <note default-x="187">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-73" number="1">
+          <syllabic>end</syllabic>
+          <text>на</text>
+        </lyric>
+      </note>
+      <note default-x="230">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--=======================================================-->
+    <measure number="6" width="284">
+      <direction placement="above">
+        <direction-type>
+          <words default-y="7" relative-x="-7">1</words>
+        </direction-type>
+      </direction>
+      <note default-x="12">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="10">up</stem>
+        <lyric default-y="-73" number="1" relative-x="9">
+          <syllabic>single</syllabic>
+          <text>6.</text>
+          <elision> </elision>
+          <syllabic>begin</syllabic>
+          <text>Щед</text>
+        </lyric>
+      </note>
+      <note default-x="76">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="5">up</stem>
+        <lyric default-y="-73" number="1">
+          <syllabic>end</syllabic>
+          <text>рик</text>
+        </lyric>
+      </note>
+      <note default-x="126">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-73" number="1">
+          <syllabic>begin</syllabic>
+          <text>бед</text>
+        </lyric>
+      </note>
+      <note default-x="190">
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem default-y="0">up</stem>
+        <lyric default-y="-73" number="1" relative-x="8">
+          <syllabic>end</syllabic>
+          <text>рик,</text>
+        </lyric>
+      </note>
+      <note default-x="234">
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
       </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
