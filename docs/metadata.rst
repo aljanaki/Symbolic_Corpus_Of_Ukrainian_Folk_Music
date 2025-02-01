@@ -40,10 +40,6 @@ Metadata
    * - Performer
      - Who performed the song
      - Колесниченко Ганна Іванівна, 1906 р.н.   
-   * - Archive reference
-     - Reference to where the physical copy of the sheet music and audio recording (if available) is stored
-     - ІМФЕ, ф. 14-5, од. зб. 424, арк. 136-137; фонозапис 
-ф. 14-10, од. зб. 1248, № 9. Транскрибування:  Василенко З. І.
    * - Number of voices
      - How many voices the song has (manually annotated by a musicologist)
      - unison	 
@@ -56,3 +52,6 @@ Metadata
    * - Additional remarks
      - Any other information about a song: it’s ritual function, performative aspects, singer background. Manually extracted from archival reference.
      - Співають дівчата на Великдень, зібравшись в гурточок	 
+   * - Archive reference
+     - Reference to where the physical copy of the sheet music and audio recording (if available) is stored
+     - ІМФЕ, ф. 14-5, од. зб. 424, арк. 136-137; фонозапис ф. 14-10, од. зб. 1248, № 9. Транскрибування:  Василенко З. І.
