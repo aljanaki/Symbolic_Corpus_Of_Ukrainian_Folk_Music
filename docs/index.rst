@@ -7,7 +7,7 @@ This website contains a corpus of 1310 symbolically encoded Ukrainian folk songs
    :header-rows: 1
 
    * - Type
-     - Song amount
+     - Number of songs
    * - Calendar-Ritual songs
      - 692
    * - Family-Ritual songs
