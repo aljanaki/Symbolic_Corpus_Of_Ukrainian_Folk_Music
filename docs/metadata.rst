@@ -2,7 +2,7 @@ Metadata
 =====
 
 **Metadata** files, describing every song in the corpus, are in metadata folder, sorted by the type of song (Ritual, Non-ritual (Calendar-Ritual and Family-Ritual) and children's songs.   
-One of the important parts is genre of the song, which is encoded in two-letter codes. Here is the `disambiguation <https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/blob/main/docs/attachments/Catalogue%of%Ukrainian%Song%Folklore.pdf>`_ for this codes.
+One of the important parts is genre of the song, which is encoded in two-letter codes. Here is the `disambiguation <https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/blob/8fd2c6daff9c921a50786b5dc72a5ac2ba1ee4d1/docs/attachments/Catalogue%20of%20Ukrainian%20Song%20Folklore.pdf>`_ for this codes.
 
 Here is a list of all the columns in the metadata files with their meaning:
 
