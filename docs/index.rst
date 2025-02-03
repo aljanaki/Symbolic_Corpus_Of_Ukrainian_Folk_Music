@@ -43,3 +43,4 @@ Contents
 
    metadata/metadata
    metadata/abbreviations
+   metadata/map
