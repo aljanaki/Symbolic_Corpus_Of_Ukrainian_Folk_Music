@@ -8,3 +8,6 @@ Corpus contents:
 - Metadata (.csv)
 
 For every subpart of the corpus, there is a corresponding folder with data files in the content directory. 
+
+See detailed documentation: 
+https://symbolic-corpus-of-ukrainian-folk-music.readthedocs.io/en/latest/
