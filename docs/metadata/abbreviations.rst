@@ -44,7 +44,9 @@ Because the Index of the codes is extremely important for an identification of t
    * - B8
      - wedding song (orphan bride);
    * - B9
-     - wedding song (at groom’s place; perezva (celebration after the wedding), the end of the wedding);
+     - wedding song (at groom’s place; perezva (celebration after the wedding), the end of the wedding);  
+   * - ВБ
+     - Vesniankas-ballads;   
    * - BB
      - Easter vesniankas;
    * - BЖ
@@ -65,6 +67,8 @@ Because the Index of the codes is extremely important for an identification of t
      - dancing vesniankas;
    * - BЩ
      - vesniankas, “schedrivkas” (spring), and Christmas Carols;
+   * - в
+     - vivats;
    * - Г
      - hopacks;
    * - Д
@@ -91,7 +95,7 @@ Because the Index of the codes is extremely important for an identification of t
      - playing calculation;
    * - К
      - "kozachas" (Ukrainian folk dance);
-   * - К
+   * - k
      - Cracoviennes (Polish dance);
    * - КВ
      - Kupala’s vesniankas (Kupala – Ukrainian summer holidays);
@@ -141,6 +145,14 @@ Because the Index of the codes is extremely important for an identification of t
      - facetious sayings to snail;
    * - ПТ
      - songs about animals;
+   * - РК
+     - romances about love;
+   * - РП
+     - rusalka songs;
+   * - РР
+     - romances with a family theme;
+   * - РХ
+     - songs of birth and baptismal rites;
    * - C
      - dances with a plot;
    * - CЩ
