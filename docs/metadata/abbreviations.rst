@@ -26,141 +26,141 @@ Because the Index of the codes is extremely important for an identification of t
    * - БC
      - ballads about the soldiers
    * - БЧ
-      - ballads about the chumacks (Ukrainian ox-cart drivers);
+     - ballads about the chumacks (Ukrainian ox-cart drivers);
    * - B1
-      - wedding song (matchmaking, engagement, preparation for a wedding; invitation to a wedding);
+     - wedding song (matchmaking, engagement, preparation for a wedding; invitation to a wedding);
    * - B2
-      - wedding song (wreath, giltse (ritual tree in Ukrainian wedding));
+     - wedding song (wreath, giltse (ritual tree in Ukrainian wedding));
    * - B3
-      - wedding song (round loaf and cones);
+     - wedding song (round loaf and cones);
    * - B4
-      - wedding song (divych-vechir [(bride’s party on the eve of her wedding); a bride is being dressed for the marriage, unplaiting and braiding the bride’s hair, marriage);
+     - wedding song (divych-vechir [(bride’s party on the eve of her wedding); a bride is being dressed for the marriage, unplaiting and braiding the bride’s hair, marriage);
    * - B5
-      - wedding song (feast on the wedding, a song wrangle at wedding table);
+     - wedding song (feast on the wedding, a song wrangle at wedding table);
    * - B6
-      - wedding song (bridegroom is going for bride; redemption and putting on the bride’s head a shawl of the married woman; dividing of the round loaf);
+     - wedding song (bridegroom is going for bride; redemption and putting on the bride’s head a shawl of the married woman; dividing of the round loaf);
    * - B7
-      - wedding song (bride is dressing up to the bridegroom);
+     - wedding song (bride is dressing up to the bridegroom);
    * - B8
-      - wedding song (orphan bride);
+     - wedding song (orphan bride);
    * - B9
-      - wedding song (at groom’s place; perezva (celebration after the wedding), the end of the wedding);
+     - wedding song (at groom’s place; perezva (celebration after the wedding), the end of the wedding);
    * - BB
-      - Easter vesniankas;
+     - Easter vesniankas;
    * - BЖ
-      - playful vesniankas;
+     - playful vesniankas;
    * - BЗ
-      - invocatory vesniankas;
+     - invocatory vesniankas;
    * - BІ
-      - playing vesniankas;
+     - playing vesniankas;
    * - BЛ
-      - spring “ladkannja” (ritual songs);
+     - spring “ladkannja” (ritual songs);
    * - BК
-      - love vesniankas;
+     - love vesniankas;
    * - BР
-      - vesniankas about family life;
+     - vesniankas about family life;
    * - BC
-      - social and modern vesniankas;
+     - social and modern vesniankas;
    * - BT
-      - dancing vesniankas;
+     - dancing vesniankas;
    * - BЩ
-      - vesniankas, “schedrivkas” (spring), and Christmas Carols;
+     - vesniankas, “schedrivkas” (spring), and Christmas Carols;
    * - Г
-      - hopacks;
+     - hopacks;
    * - Д
-      - playful songs in dialogues;
+     - playful songs in dialogues;
    * - ДД
-      - children’s folklore, performing by children;
+     - children’s folklore, performing by children;
    * - ДС
-      - children’s folklore, performing by adults;
+     - children’s folklore, performing by adults;
    * - Ж
-      - songs about harvest;
+     - songs about harvest;
    * - ЖТ
-      - playful and dancing songs;
+     - playful and dancing songs;
    * - З
-      - drinking songs;
+     - drinking songs;
    * - ЗД
-      - calls to the rain;
+     - calls to the rain;
    * - ЗІ
-      - game amusements;
+     - game amusements;
    * - ЗС
-      - calls to the sun;
+     - calls to the sun;
    * - ЗЧ
-      - amusements, chuchykalkas;
+     - amusements, chuchykalkas;
    * - ІЛ
-      - playing calculation;
+     - playing calculation;
    * - К
-      - "kozachas" (Ukrainian folk dance);
+     - "kozachas" (Ukrainian folk dance);
    * - К
-      - Cracoviennes (Polish dance);
+     - Cracoviennes (Polish dance);
    * - КВ
-      - Kupala’s vesniankas (Kupala – Ukrainian summer holidays);
+     - Kupala’s vesniankas (Kupala – Ukrainian summer holidays);
    * - КД
-      - old lullabies;
+     - old lullabies;
    * - КО
-      - songs about mowers;
+     - songs about mowers;
    * - КП
-      - songs about Ukrainian summer Kupala and Petro holidays;
+     - songs about Ukrainian summer Kupala and Petro holidays;
    * - КР
-      - Kupala’s songs with refrain;
+     - Kupala’s songs with refrain;
    * - КС
-      - eastern cradle songs;
+     - eastern cradle songs;
    * - КЩ
-      - Christmas carols, "schedrivkas";
+     - Christmas carols, "schedrivkas";
    * - ЛК
-      - non-ritual lyric love songs;
+     - non-ritual lyric love songs;
    * - Лк
-      - Cossack’s lyric poetry;
+     - Cossack’s lyric poetry;
    * - ЛН
-      - lyric poetry about hirelings;
+     - lyric poetry about hirelings;
    * - ЛР
-      - lyric poetry about family’s everyday life;
+     - lyric poetry about family’s everyday life;
    * - ЛC
-      - soldier’s lyric poetry;
+     - soldier’s lyric poetry;
    * - Лс
-      - social lyric poetry;
+     - social lyric poetry;
    * - М
-      - lively popular dances;
+     - lively popular dances;
    * - м
-      - mazurkas;
+     - mazurkas;
    * - Н
-      - absurdities;
+     - absurdities;
    * - ОР
-      - ritual family songs;
+     - ritual family songs;
    * - ОК
-      - ritual calendar songs;
+     - ritual calendar songs;
    * - ПГ
-      - humorous songs;
+     - humorous songs;
    * - ПК
-      - songs about Ukrainian summer Kupala and Petro holidays, to OK;
+     - songs about Ukrainian summer Kupala and Petro holidays, to OK;
    * - ПК
-      - songs to fairy-tales, to ДC;
+     - songs to fairy-tales, to ДC;
    * - ПП
-      - songs about lying-in women;
+     - songs about lying-in women;
    * - ПР
-      - facetious sayings to snail;
+     - facetious sayings to snail;
    * - ПТ
-      - songs about animals;
+     - songs about animals;
    * - C
-      - dances with a plot;
+     - dances with a plot;
    * - CЩ
-      - satirical schedrivkas;
+     - satirical schedrivkas;
    * - T
-      - trepaks;
+     - trepaks;
    * - ТК
-      - national theatre "Koza" (she-goat);
+     - national theatre "Koza" (she-goat);
    * - ТМ
-      - national theatre "Malanka";
+     - national theatre "Malanka";
    * - Tp
-      - tryndychkas (a song with a playful contents);
+     - tryndychkas (a song with a playful contents);
    * - ХЩ
-      - Christian schedrivkas;
+     - Christian schedrivkas;
    * - Ч
-      - czardas (Hungarian dance);
+     - czardas (Hungarian dance);
    * - ЩК
-      - schedrivkas (Christmas carols);
+     - schedrivkas (Christmas carols);
    * - О1
-      - ordinal number;
+     - ordinal number;
 
 
 Efremova Liudmyla. 2011. Catalogue of Ukrainian Song Folklore. V.3. Kyiv: Naukova dumka. pp. 57-58.
