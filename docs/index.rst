@@ -34,6 +34,12 @@ Contents
 
 .. toctree::
 
-   metadata
    musicxml
    lyrics
+
+.. toctree::
+   :caption: Metadata
+   :maxdepth: 2
+
+   metadata/metadata
+   metadata/abbreviations

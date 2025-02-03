@@ -1,6 +1,6 @@
-Efremova Liudmyla. 2011. Catalogue of Ukrainian Song Folklore. V.3. Kyiv: Naukova dumka. pp. 57-58.
- 
 Catalogue of Ukrainian Song Folklore
+=====
+ 
 Because the Index of the codes is extremely important for an identification of the most Ukrainian folk songs and it reflects the short version of the plots, we think it would be necessary to include its English translation (done by Iryna Kuznetsova, editing by Inna Golovakha-Hicks). The goal is to introduce this Index not only to Slavic scholars but also to make it accessible for the scholars from the other countries.
 (Thematic Index With the Plot)
  
@@ -162,3 +162,5 @@ Because the Index of the codes is extremely important for an identification of t
    * - О1
       - ordinal number;
 
+
+Efremova Liudmyla. 2011. Catalogue of Ukrainian Song Folklore. V.3. Kyiv: Naukova dumka. pp. 57-58.
