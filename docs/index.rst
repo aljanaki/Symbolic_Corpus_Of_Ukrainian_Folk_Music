@@ -35,8 +35,18 @@ Contents
 --------
 
 .. toctree::
+   :caption: Main page
+   :maxdepth: 2
+   index
 
+.. toctree::
+   :caption: Symbolic music
+   :maxdepth: 2
    musicxml
+
+.. toctree::
+   :caption: Song texts
+   :maxdepth: 2
    lyrics
 
 .. toctree::
