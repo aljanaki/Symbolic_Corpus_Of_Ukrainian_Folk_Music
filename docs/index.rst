@@ -28,6 +28,8 @@ To reference the corpus, cite:
 * Section :doc:`lyrics` contains song texts in .txt format (Unicode-encoded).
 
 
+`Error reporting <https://docs.google.com/forms/d/e/1FAIpQLSdlFKhuZrCc2IYUDgfJJtc78xHEJfbUnCIlEN7j_73CPSPrvg/viewform>`_ 
+
 
 Contents
 --------
