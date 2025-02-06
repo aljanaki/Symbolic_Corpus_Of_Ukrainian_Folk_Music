@@ -23,6 +23,8 @@ Because the Index of the codes is extremely important for an identification of t
      - ballads about the Cossacks
    * - БН
      - ballads about hirelings
+   * - БР
+     - ballads about domestic life
    * - БC
      - ballads about the soldiers
    * - БЧ
