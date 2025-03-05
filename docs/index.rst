@@ -21,7 +21,7 @@ Download the full corpus from `here <https://github.com/aljanaki/Symbolic_Corpus
 
 To reference the corpus, cite: 
 
-*Inna Lisniak, Anna Aljanaki, and Liudmyla Efremova. (2024) A corpus of Ukrainian folk songs from Podillia.*
+*Inna Lisniak, Anna Aljanaki, and Liudmyla Efremova. (2025) A corpus of Ukrainian folk songs from Podillia. The Proceedings of the 9th Digital Humanities in the Nordic and Baltic Countries Conference*
 
 * Check out the :doc:`metadata` section for information on how the metadata is organized.
 * Section :doc:`musicxml` contains information on symbolic music
