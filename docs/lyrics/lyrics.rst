@@ -8,4 +8,5 @@ There are less variations of lyrics in this corpus than variations of song melod
 The lyrics were scraped from the musicXML files and quality checked. 
 
 Lyrics can be downloaded from the repository:
-https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/tree/main/Lyrics
+
+https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music
