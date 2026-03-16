@@ -3,7 +3,7 @@ Metadata
 
 **Metadata** files, which describe every song in the corpus, are located in the metadata folder. They are sorted by song cycle (Ritual, Non-ritual, and Children's songs).
 One important aspect is the genre of the song, which is encoded using an abbreviation, explained   
-`in this document <https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/blob/8fd2c6daff9c921a50786b5dc72a5ac2ba1ee4d1/docs/attachments/Catalogue%20of%20Ukrainian%20Song%20Folklore.pdf>`_ for this codes.
+`in this document <https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music/blob/8fd2c6daff9c921a50786b5dc72a5ac2ba1ee4d1/docs/attachments/Catalogue%20of%20Ukrainian%20Song%20Folklore.pdf>`_ for these codes.
 
 
 Here is a list of all the columns in the metadata files with their meaning:
