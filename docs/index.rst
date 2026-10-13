@@ -25,7 +25,7 @@ To reference the corpus, cite:
 
 
 
-**Funding:** The research associated with the Symbolic Corpus of Ukrainian Folk Songs was supported in part by the Estonian Research Council (project PRG1288, "A corpus-based approach to folkloric variation: regional styles, thematic networks, and communicative modes in runosong tradition", 2021–2025).
+**Funding:** The research associated with the Symbolic Corpus of Ukrainian Folk Songs was supported in part by projects PRG1288 (2021–2025) and TK215 (2024–2030).
 
 For further information, see :doc:`Funding and Acknowledgements <funding>`.
 
