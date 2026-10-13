@@ -23,6 +23,13 @@ To reference the corpus, cite:
 
 *Inna Lisniak, Anna Aljanaki, and Liudmyla Efremova. (2025) A corpus of Ukrainian folk songs from Podillia. The Proceedings of the 9th Digital Humanities in the Nordic and Baltic Countries Conference*
 
+
+
+**Funding:** The research associated with the Symbolic Corpus of Ukrainian Folk Songs was supported in part by the Estonian Research Council (project PRG1288, "A corpus-based approach to folkloric variation: regional styles, thematic networks, and communicative modes in runosong tradition", 2021–2025).
+
+For further information, see :doc:`Funding and Acknowledgements <funding>`.
+
+
 * Check out the :doc:`metadata` section for information on how the metadata is organized.
 * Section :doc:`musicxml` contains information on symbolic music
 * Section :doc:`lyrics` contains song texts in .txt format (Unicode-encoded).
@@ -54,3 +61,10 @@ Contents
    metadata/abbreviations
    metadata/abbreviations_UA
    metadata/map
+
+
+.. toctree::
+   :caption: Funding and Acknowledgements
+   :maxdepth: 2
+
+   funding
